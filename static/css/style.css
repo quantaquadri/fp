@@ -1,0 +1,3204 @@
+@media (max-width:576px) {
+    .Status>.BannerBelow {
+        height: 122px!important;
+        border-bottom: 1px solid #dce3eb;
+        background-color: #fcfcff
+    }
+}
+
+.Status .row.box-d>div {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-evenly;
+    justify-content: space-evenly;
+    -webkit-align-items: center;
+    align-items: center;
+    margin-bottom: 20px
+}
+
+.Status .Illustration {
+    margin: 16px 8px
+}
+
+.Status a {
+    color: #3ba3fe!important;
+    font-style: normal!important
+}
+
+.bottom-buttons button {
+    font-size: 13px!important;
+    font-family: Avenir-Medium!important;
+    letter-spacing: .8px!important;
+    width: 140px;
+    height: 40px
+}
+
+.bottom-buttons .btn-secondary,
+.bottom-buttons .btn-secondary:hover {
+    color: #9096b2
+}
+
+.Status .trade-rectangle>:not(:last-child):not(:first-child) {
+    border-bottom: 1px solid #dce3eb
+}
+
+.Status .trade-rectangle>.row {
+    padding-top: 14px;
+    padding-bottom: 14px;
+    width: 100%
+}
+
+.Status .trade-rectangle>.row>div {
+    text-align: left
+}
+
+.Status>.BannerBelow {
+    height: 88px;
+    border-bottom: 1px solid #dce3eb;
+    background-color: #fcfcff
+}
+
+.Status>.BannerBelow .row span.header-descriptor {
+    color: #9096b2;
+    font-weight: 0;
+    font-size: 12px;
+    padding-top: 1px;
+    letter-spacing: 1px;
+    min-width: 53px;
+    text-transform: uppercase;
+    font-family: Avenir-Book
+}
+
+.Status>.BannerBelow .row span {
+    font-size: 14px;
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    float: left;
+    clear: left
+}
+
+.modal-body {
+    font-family: OpenSans-Regular;
+    color: #343b5c;
+    font-size: 14px
+}
+
+.modal-body.weth-wrapper {
+    padding: 0!important
+}
+
+.modal-body input.estimate-input {
+    height: 40px!important;
+    box-shadow: inset 0 0 0 1px #dce3eb!important
+}
+
+input.estimate-input::-webkit-inner-spin-button,
+input.estimate-input::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0
+}
+
+.modal-body .estimate-input-append span {
+    height: 40px!important;
+    background-color: #f5f8fc
+}
+
+.modal-body.weth-wrapper {
+    background-color: transparent
+}
+
+.modal-content {
+    overflow: hidden
+}
+
+.modal-body .nav-tabs,
+.modal-body .nav-tabs .nav-item {
+    border-bottom: none
+}
+
+.modal-body .nav-tabs a {
+    height: 60px;
+    padding-top: 20px;
+    vertical-align: center;
+    text-align: center
+}
+
+.modal-body .nav-tabs .nav-link.active {
+    border-top: 2px solid #d674f6!important;
+    color: #8c3cf6!important;
+    font-family: Avenir-Heavy;
+    background-color: #fff
+}
+
+.modal-body .info-rows>.row {
+    border-bottom: 1px solid #dce3eb
+}
+
+.modal-body .info-rows>.row {
+    padding-top: 24px;
+    padding-bottom: 24px
+}
+
+.modal-body .row.input {
+    padding-top: 24px;
+    padding-bottom: 24px
+}
+
+.weth-wrapper-contents {
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: Avenir-Medium
+}
+
+.modal-body .info-rows>.row .right-col {
+    font-family: Avenir-Heavy;
+    color: #343b5c
+}
+
+.modal-body .row .right-col input {
+    margin-top: -8px;
+    background-color: #fbfdff
+}
+
+.modal-body .row .right-col input:focus {
+    border: 1px solid #8c3cf6!important
+}
+
+.modal-body .nav-tabs .nav-link {
+    border: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    background-color: #f0f4fa;
+    font-family: Avenir-Book;
+    vertical-align: center;
+    color: #9198b0!important;
+    font-size: 15px;
+    letter-spacing: 1.5px;
+    border-top: 2px solid #9198b0!important;
+    cursor: pointer
+}
+
+.modal-body .form-group {
+    margin-bottom: 16px
+}
+
+.modal-body .form-group label {
+    font-size: 13px;
+    color: #606789;
+    margin-bottom: 6px;
+    font-family: Avenir-Medium;
+    margin-right: 8px;
+    float: left
+}
+
+.pointer {
+    cursor: pointer
+}
+
+.modal-body .form-group span.desc {
+    display: block;
+    text-align: right;
+    font-size: 12px;
+    font-weight: 800;
+    line-height: 16px;
+    color: #6877bf;
+    margin-top: 4px;
+    margin-bottom: 2px;
+    font-family: Avenir-Book;
+    float: right
+}
+
+.modal-body .form-group span.desc.left {
+    text-align: left;
+    float: left
+}
+
+.modal-body .form-group .input-group-text {
+    font-family: Avenir-Medium
+}
+
+.modal-body .col-12 h2 {
+    font-size: 21px;
+    letter-spacing: .5px
+}
+
+.modal-body .col-12 h2,
+.modal-body h4.box-text {
+    color: #343b5c;
+    font-family: Avenir-Heavy;
+    padding-bottom: 12px
+}
+
+.modal-body h4.box-text {
+    font-size: 12px;
+    padding-top: 12px;
+    padding-right: 10px;
+    letter-spacing: .3px;
+    text-align: center
+}
+
+.modal-body .trade-heading {
+    padding-bottom: 20px
+}
+
+.modal-body .header {
+    color: #9499aa;
+    font-family: Avenir-Heavy;
+    font-size: 12px;
+    letter-spacing: 1px
+}
+
+.modal-body .modal-form {
+    padding-bottom: 16px
+}
+
+.modal-body .modal-seperator {
+    width: 800px;
+    margin-left: -40px;
+    margin-right: -40px;
+    border-bottom: 1px solid #dce3eb;
+    margin-bottom: 21px
+}
+
+.modal-body.send {
+    padding-top: 2px
+}
+
+.modal-body.json-order {
+    padding-top: 8px
+}
+
+.modal-body .modal-image {
+    height: 80px
+}
+
+.modal-body.send .modal-image {
+    height: 120px
+}
+
+.modal-body.json-order .title {
+    font-family: OpenSans-SemiBold;
+    color: #606789;
+    font-size: 18px
+}
+
+.modal-body.json-order .desc {
+    margin-bottom: .5rem;
+    margin-top: 1.4rem
+}
+
+.modal-body.json-order .input,
+.modal-body.json-order .input:focus {
+    background-color: #f7fafd;
+    border: 1px solid #dce3eb
+}
+
+.modal-body.json-order input {
+    font-family: OpenSans-Regular!important;
+    color: #343b5c!important;
+    font-size: 14px!important
+}
+
+.modal-body .btn {
+    height: 40px
+}
+
+.modal-body.json-order .btn-outline-secondary {
+    width: 100%;
+    background-color: #f7fafd;
+    border: 1px solid #dce3eb;
+    color: #b1bdc9;
+    text-transform: uppercase;
+    font-size: 14px
+}
+
+.textarea-copy {
+    margin-top: -6px;
+    height: 40px;
+    border-radius: 0 0 4px 4px!important
+}
+
+.modal-body.json-order input,
+.modal-body.json-order input:active,
+.modal-body.json-order input:focus {
+    outline: none!important;
+    border: 1px solid #dce3eb
+}
+
+.modal-body.json-order .form-control[readonly] {
+    background-color: #fff;
+    opacity: 1
+}
+
+.modal-body.json-order .order-textarea {
+    border: 1px solid #dce3eb;
+    border-radius: 4px 4px 0 0;
+    width: 100%;
+    max-height: 280px;
+    min-height: 80px
+}
+
+.modal-body.json-order .order-textarea:focus {
+    outline: none!important
+}
+
+.modal-body.json-order input {
+    height: 40px
+}
+
+.modal-body h4.box-text span {
+    font-family: Avenir-Book
+}
+
+.modal-body p {
+    color: #9096b2
+}
+
+.modal-body a,
+.modal-body p,
+.modal-foot a {
+    font-family: Avenir-Book;
+    font-size: 13px;
+    letter-spacing: .2px
+}
+
+.modal-body a,
+.modal-foot a {
+    color: #ff67d1!important;
+    font-style: normal!important;
+    text-decoration: none
+}
+
+.modal-content {
+    color: #343b5c;
+    font-family: Avenir-Heavy;
+    font-size: 16px
+}
+
+.modal-body {
+    padding-left: 2.5rem!important;
+    padding-right: 2.5rem!important
+}
+
+.bottomText {
+    padding-top: 8px;
+    letter-spacing: .1px;
+    font-family: Avenir-Medium;
+    font-size: 16px;
+    color: #606789
+}
+
+.badge-header {
+    padding-top: 16px;
+    padding-bottom: 12px;
+    font-family: Avenir-Heavy;
+    font-size: 16px
+}
+
+.wallet-loader {
+    padding: 80px
+}
+
+.modal-foot {
+    display: inline-block;
+    padding: 1rem;
+    border-top: 1px solid #e9ecef
+}
+
+.modal-foot .help {
+    display: inline;
+    padding-left: 6px
+}
+
+.modalFooterText {
+    display: inline;
+    font-family: Avenir-Book;
+    font-size: 12px;
+    color: #9096b2;
+    letter-spacing: .8px
+}
+
+.PowerSelect__Tether {
+    z-index: 1051
+}
+
+.offer-currency-dropdown .PowerSelect__Options {
+    max-height: 150px
+}
+
+.offer-modal {
+    padding-bottom: 35px
+}
+
+.offer-modal-header {
+    border-bottom: 1px solid #dadce9;
+    padding: 17px 17px 11px 32px
+}
+
+.offer-modal-header img {
+    height: 23px;
+    margin: 0 6px
+}
+
+.offer-modal-header h5 {
+    color: #afb3c4;
+    font-family: Avenir-Heavy;
+    font-size: 12px;
+    letter-spacing: 1px;
+    float: left;
+    margin: 0
+}
+
+.offer-modal-header button {
+    margin-top: -4px
+}
+
+.offer-modal-body {
+    padding-top: 21px
+}
+
+.offer-modal-body .react-datepicker .react-datepicker__header {
+    background-color: #fff
+}
+
+.expire-desc {
+    margin: 0 auto
+}
+
+.expire-desc span {
+    font-size: 12px;
+    font-family: Avenir-Book;
+    color: #9096b2
+}
+
+.offered-currency-img-holder img {
+    height: 150px
+}
+
+.offer-rectangle {
+    width: 350px;
+    padding: 20px 40px
+}
+
+.offer-rectangle label {
+    font-size: 14px;
+    color: #9096b2;
+    margin-bottom: 6px;
+    font-family: Avenir-Book;
+    margin-right: 8px;
+    float: left
+}
+
+.offer-button-holder .create-button {
+    margin-top: 0!important
+}
+
+.inner-normal {
+    width: 98px;
+    height: 98px!important;
+    bottom: 3px;
+    left: 5px;
+    object-fit: contain
+}
+
+.outer-normal {
+    max-width: 134px!important
+}
+
+.inner-modal-box {
+    width: 56px;
+    height: 56px!important;
+    top: 18px;
+    right: 18px;
+    object-fit: contain
+}
+
+.outer-modal-box {
+    max-width: 80px!important
+}
+
+.react-datepicker__portal {
+    background-color: rgba(0, 0, 0, .5)
+}
+
+.react-datepicker {
+    font-family: Avenir-Book;
+    font-size: 12px;
+    color: #343b5c;
+    border: 0 solid #dce3eb!important;
+    border-radius: .3rem
+}
+
+.react-datepicker-btn {
+    background: none;
+    color: #bc92e2;
+    font-size: 12px;
+    border: 0 solid #fff;
+    text-decoration: underline
+}
+
+.react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box ul.react-datepicker__time-list li.react-datepicker__time-list-item--selected {
+    background-color: #ff67d1;
+    color: #fff;
+    font-weight: 700
+}
+
+.react-datepicker__day--in-range,
+.react-datepicker__day--in-selecting-range,
+.react-datepicker__day--selected {
+    border-radius: .3rem;
+    background-color: #ff67d1;
+    color: #fff
+}
+
+.react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box ul.react-datepicker__time-list li.react-datepicker__time-list-item--selected:hover {
+    background-color: #ca57a7
+}
+
+.react-datepicker__time-container {
+    border-left: 1px solid #dce3eb
+}
+
+.react-datepicker__portal .react-datepicker__navigation--next {
+    border-left-color: #a9a6c7
+}
+
+.react-datepicker__portal .react-datepicker__navigation--previous {
+    border-right-color: #a9a6c7
+}
+
+.react-datepicker__day--in-range:hover,
+.react-datepicker__day--in-selecting-range:hover,
+.react-datepicker__day--selected:hover {
+    background-color: #ca57a7
+}
+
+.react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box ul.react-datepicker__time-list li.react-datepicker__time-list-item {
+    height: 40px;
+    padding-top: 4px
+}
+
+.react-datepicker__header {
+    text-align: center;
+    background-color: #f6f8ff;
+    border-bottom: 1px solid #dce3eb;
+    border-top-left-radius: .3rem;
+    border-top-right-radius: .3rem;
+    padding-top: 8px;
+    position: relative
+}
+
+.react-datepicker-time__header,
+.react-datepicker__current-month {
+    margin-top: 0;
+    color: #343b5c;
+    font-weight: 700;
+    font-size: .944rem
+}
+
+.react-datepicker__day:hover {
+    background-color: #f6f8ff
+}
+
+.CurrencyDropdown .CurrencyDropdownOption,
+.CurrencyDropdown__Tether .CurrencyDropdownOption {
+    margin: auto
+}
+
+.is-invalid {
+    border: 1px solid red!important
+}
+
+.CurrencyDropdown .CurrencyDropdownOption img,
+.CurrencyDropdown__Tether .CurrencyDropdownOption img {
+    width: 16px;
+    display: inline-block;
+    margin-right: 13px;
+    margin-left: 6px;
+    margin-top: -3px
+}
+
+.CurrencyDropdown .CurrencyDropdownOption div,
+.CurrencyDropdown__Tether .CurrencyDropdownOption div {
+    font-family: Avenir-Book;
+    font-size: 14px;
+    position: relative
+}
+
+.CurrencyDropdown .CurrencyDropdownOption div span,
+.CurrencyDropdown__Tether .CurrencyDropdownOption div span {
+    display: inline-block;
+    color: #606789
+}
+
+.CurrencyDropdown .CurrencyDropdownOption div span:first-child,
+.CurrencyDropdown__Tether .CurrencyDropdownOption div span:first-child {
+    margin-right: 8px;
+    font-family: Avenir-Heavy;
+    font-size: 16px;
+    position: relative;
+    color: #343b5c
+}
+
+.CurrencyDropdown .PowerSelect__Clear {
+    display: none
+}
+
+.Trade .CurrencyOption.active small,
+.Trade .CurrencyOption:active small {
+    color: #fff!important
+}
+
+.Trade .HelpTooltip {
+    color: #e58193;
+    margin-left: 8px;
+    vertical-align: middle;
+    font-size: 1.2em;
+    cursor: pointer
+}
+
+.Trade .form-group {
+    margin-bottom: 0
+}
+
+.Trade .form-group span.desc {
+    display: block;
+    text-align: right;
+    font-size: 12px;
+    font-weight: 800;
+    line-height: 16px;
+    color: #6877bf;
+    margin-top: 4px;
+    margin-bottom: 2px;
+    font-family: Avenir-Book;
+    float: right
+}
+
+.Trade .Illustration {
+    margin: 16px 8px
+}
+
+.Trade .buttons-bar {
+    display: none!important;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid #dce3eb
+}
+
+.Trade .buttons-bar>.row.btns-d>div {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-evenly;
+    justify-content: space-evenly;
+    -webkit-align-items: center;
+    align-items: center
+}
+
+.Trade form>.row.box-d>div {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-evenly;
+    justify-content: space-evenly;
+    -webkit-align-items: center;
+    align-items: center;
+    margin-bottom: 24px
+}
+
+.Trade .buttons-bar>.row.btns-d>div button:last-child {
+    margin-right: 24px!important
+}
+
+.trade-rectangle {
+    width: 350px;
+    border-radius: 4px;
+    background-color: #fff;
+    padding: 20px 40px
+}
+
+.trade-rectangle-shadow {
+    box-shadow: 4px 6px 60px 0 rgba(184, 192, 238, .2)
+}
+
+.marg-right-md {
+    margin-right: 40px
+}
+
+@media (min-width:786px) {
+    .trade-container {
+        max-width: 778px
+    }
+}
+
+@media (max-width:767px) {
+    .marg-center {
+        margin: 0 auto!important
+    }
+}
+
+.trade-rectangle input.form-control {
+    height: 36px;
+    border: 1px solid #dce3eb;
+    border-radius: 4px!important;
+    font-size: 14px
+}
+
+.trade-rectangle input.form-control:active,
+.trade-rectangle input.form-control:focus {
+    border: 1px solid #8c3cf6!important
+}
+
+.trade-rectangle input.form-control:disabled {
+    background-color: #f7f8fc!important
+}
+
+.Trade .form-group .help {
+    float: left
+}
+
+.Trade .form-group .help div div svg {
+    margin-top: -6px
+}
+
+.trade-rectangle .asteriks-message {
+    float: right;
+    font-size: 11px
+}
+
+.trade-rectangle label {
+    font-size: 14px;
+    color: #9096b2;
+    margin-bottom: 6px;
+    font-family: Avenir-Book;
+    margin-right: 8px;
+    float: left
+}
+
+.trade-rectangle h4 {
+    text-align: center;
+    color: #a3a9c5;
+    letter-spacing: 4px;
+    line-height: 1.5;
+    font-size: 16px;
+    margin-bottom: 17px;
+    font-weight: 700;
+    font-family: Avenir-Roman
+}
+
+.trade-rectangle .form-group {
+    margin-bottom: 17px
+}
+
+.PowerSelect {
+    cursor: pointer;
+    border: 1px solid #dce3eb;
+    border-radius: 4px;
+    background-color: #fff;
+    text-align: left!important
+}
+
+.PowerSelect__Clear,
+.PowerSelect__Trigger,
+.PowerSelect__TriggerInputContainer,
+.PowerSelect__TriggerLabel,
+.PowerSelect__TriggerStatus,
+.PowerSelectMultiple__OptionsContainer {
+    height: 36px!important
+}
+
+.PowerSelect__Placeholder {
+    font-size: 14px!important;
+    padding-left: 15px;
+    color: #9096b2!important;
+    font-family: Avenir-Book
+}
+
+.PowerSelect__TriggerStatus:before {
+    border-top: 8px solid #ccc!important;
+    border-left: 8px solid transparent!important;
+    border-right: 8px solid transparent!important
+}
+
+.PowerSelect--focused,
+.PowerSelect__SearchInput {
+    border-color: #dce3eb!important
+}
+
+.PowerSelect__SearchInput:focus {
+    border-color: #8c3cf6!important
+}
+
+.PowerSelect__Option--highlighted {
+    background-color: #edf0fa!important
+}
+
+.PowerSelect__Option:not(.PowerSelect__Option--disabled):hover {
+    background-color: #f6f8ff!important
+}
+
+.PowerSelect__Menu {
+    background-color: #fff;
+    border: 1px solid #dce3eb!important;
+    border-radius: 0 0 4px 4px!important
+}
+
+.Trade .trade-create-btn {
+    margin-top: 38px!important
+}
+
+.Trade .expire-desc {
+    margin-top: 10px;
+    text-align: center
+}
+
+.Trade .expire-desc span:first-child {
+    font-size: 12px;
+    font-family: Avenir-Book;
+    color: #9096b2
+}
+
+.Trade .expire-desc span:nth-child(2) {
+    font-size: 11px;
+    font-family: Avenir-Heavy;
+    color: #bc92e2;
+    -webkit-text-decoration-color: #bc92e2;
+    text-decoration-color: #bc92e2;
+    text-decoration: underline;
+    cursor: pointer
+}
+
+.Trade .form-control:active,
+.Trade .form-control:focus {
+    border-color: #8c3cf6!important;
+    box-shadow: none!important;
+    -webkit-box-shadow: none!important
+}
+
+.outputWrapper {
+    opacity: 1
+}
+
+#outputContainer {
+    text-align: center;
+    margin: 0 auto;
+    display: table;
+    padding: 0;
+    width: 400px
+}
+
+.col-3.gen-img {
+    width: 140px;
+    padding: 10px
+}
+
+.col-2.gen-img,
+.col-3.gen-img {
+    display: table-cell;
+    text-align: center
+}
+
+.col-2.gen-img {
+    max-width: 80px;
+    padding: 0
+}
+
+.swap-img-container {
+    vertical-align: middle
+}
+
+.arrows-img-wrapper {
+    width: 80px
+}
+
+.arrows-img-wrapper,
+.img-wrapper {
+    text-align: center;
+    height: 140px;
+    background-size: contain;
+    background-position: 50%;
+    background-repeat: no-repeat
+}
+
+.img-wrapper {
+    width: 140px
+}
+
+h3.name {
+    font-family: Avenir-Roman;
+    color: #afb3c4;
+    letter-spacing: 2px;
+    font-size: 13px
+}
+
+h3.description,
+h3.name {
+    text-align: center;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 140px
+}
+
+h3.description {
+    font-family: Avenir-Heavy;
+    color: #434242;
+    font-size: 16px
+}
+
+.react-datepicker {
+    display: block
+}
+
+.react-datepicker__month-container {
+    display: block;
+    width: 100%;
+    height: 100%
+}
+
+.react-datepicker__week {
+    width: 100%
+}
+
+.react-datepicker__day {
+    line-height: 2.7rem;
+    width: 2.7rem
+}
+
+.react-datepicker__day-name {
+    width: 2.7rem
+}
+
+@media (min-width:1200px) {
+    .Landing .rooms-desc {
+        margin-left: -140px!important
+    }
+    .Landing .circle-leaves {
+        width: 640px!important
+    }
+    .Landing .circle-animated {
+        width: 460px!important;
+        margin-top: -30px;
+        margin-bottom: 30px!important
+    }
+}
+
+@media (max-width:947px) {
+    .Landing .circle-animated {
+        width: 360px!important;
+        margin-top: 0!important;
+        margin-bottom: 0!important
+    }
+    .Landing .circle-leaves {
+        width: 480px!important
+    }
+    .Landing .outercontainer {
+        padding-bottom: 20px
+    }
+}
+
+@media (max-width:767px) {
+    .Landing .rooms-desc {
+        max-width: 580px;
+        margin-left: 0!important;
+        padding-left: 30px;
+        padding-right: 30px
+    }
+    .Landing .white-leaves {
+        width: 300px!important
+    }
+    .Landing .rooms-image {
+        margin-bottom: 40px;
+        padding-right: 0!important
+    }
+    .Landing .circle-animated {
+        display: none
+    }
+    .Landing .outercontainer {
+        padding-bottom: 80px
+    }
+    .Landing .coming-soon {
+        width: 140px!important
+    }
+}
+
+@media (max-width:500px) {
+    .Landing .outercontainer {
+        margin-top: -60px
+    }
+    .Landing .white-leaves {
+        width: 220px!important
+    }
+    .Landing .custom-inputfull .btn {
+        max-width: 60px!important
+    }
+}
+
+.Landing {
+    overflow: hidden;
+    font-family: Avenir-Book;
+    color: #606789;
+    font-size: 16px
+}
+
+.Landing .btn-info:hover {
+    color: #fff;
+    background-color: #9694a4;
+    border-color: #9694a4
+}
+
+.Landing .btn-info {
+    color: #fff;
+    background-color: #c7c4d8;
+    border-color: #c7c4d8;
+    font-family: Avenir-Medium
+}
+
+.landing-btn {
+    margin-right: 20px;
+    width: 158px
+}
+
+.Landing .App-link {
+    color: #61dafb
+}
+
+.Landing .btn {
+    font-size: 14px!important;
+    height: 40px
+}
+
+.Landing .outercontainer {
+    position: relative
+}
+
+.Landing .circle-animated {
+    width: 420px;
+    float: right;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    z-index: 1;
+    position: relative
+}
+
+.Landing .circle-leaves {
+    width: 560px;
+    z-index: 2;
+    position: absolute;
+    bottom: 0;
+    right: 0
+}
+
+.Landing .white-leaves {
+    width: 360px;
+    z-index: 2;
+    position: absolute;
+    bottom: 0;
+    right: 0
+}
+
+.Landing .coming-soon {
+    width: 160px;
+    z-index: 2;
+    position: absolute;
+    top: 0;
+    right: 0
+}
+
+.Landing .lady-animated {
+    object-fit: contain
+}
+
+.Landing .Mask {
+    background-image: linear-gradient(180deg, #f6f8ff, #fff)
+}
+
+.Landing .Mask2 {
+    height: auto;
+    background-color: #f6f8ff
+}
+
+.Landing .Mask3 {
+    background-image: linear-gradient(180deg, #aa4ef7, #8c3cf6)
+}
+
+.Landing .SmallIcon {
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 10px
+}
+
+.Landing h3,
+.Landing h4,
+.Landing h5 {
+    font-family: Avenir-Black;
+    color: #343b5c
+}
+
+.Landing .h3,
+.Landing h3 {
+    font-size: 32px
+}
+
+.Landing .h4,
+.Landing h4 {
+    font-size: 24px
+}
+
+.Landing .h5,
+.Landing h5 {
+    font-size: 16px
+}
+
+HeavyFont {
+    font-family: Avenir-Black, sans-serif!important;
+    font-weight: 900!important;
+    font-size: 32px!important;
+    color: #343b5c!important
+}
+
+.Landing .custom-card-header {
+    background-color: #fff!important;
+    font-size: 16px;
+    font-family: Avenir-Heavy;
+    color: #343b5c!important;
+    border: 1px #00f!important;
+    border-radius: 4px!important;
+    padding: 20px
+}
+
+.Landing .custom-card-widths {
+    min-width: 280px;
+    max-width: 340px
+}
+
+.Landing .custom-card {
+    border-width: 0;
+    border-radius: 4px;
+    box-shadow: 4px 20px 60px 0 rgba(184, 192, 230, .14);
+    position: relative;
+    transition: box-shadow .3s ease, border .3s
+}
+
+.Landing .custom-card-body {
+    color: #606789;
+    font-weight: 200;
+    font-size: 14px;
+    line-height: 1.86
+}
+
+.Landing .light-background {
+    background-color: #fafbff!important
+}
+
+.Landing .custom-border {
+    border-bottom: 1px solid #dadce9;
+    border-top: 1px solid #dadce9
+}
+
+.Landing .fa {
+    font-size: 32px
+}
+
+.Landing .fa-angle-up {
+    color: #ffa3e3!important
+}
+
+.Landing .fa-angle-down {
+    color: #dadce9!important;
+    margin-right: 20px
+}
+
+.Landing .custom-input {
+    height: 40px;
+    border-radius: 4px;
+    border: 1px solid #dce3eb;
+    background-color: #fbfdff;
+    font-size: 14px
+}
+
+.Landing .custom-inputfull {
+    max-width: 400px
+}
+
+.Landing .custom-inputfull input:active,
+.Landing .custom-inputfull input:focus {
+    border-color: #c7c4d8;
+    box-shadow: none
+}
+
+.Landing .custom-inputfull::-webkit-input-placeholder {
+    color: #b9bdd0
+}
+
+.Landing .custom-inputfull::-ms-input-placeholder {
+    color: #b9bdd0
+}
+
+.Landing .custom-inputfull::placeholder {
+    color: #b9bdd0
+}
+
+.Landing .accordion {
+    transition: .5s
+}
+
+.Landing .accordion-container {
+    max-width: 400px
+}
+
+#collapseOne,
+#collapseThree,
+.Landing #collapseTwo {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height .2s ease-out
+}
+
+.Landing .card-x-padding {
+    padding-left: 36px;
+    padding-right: 36px
+}
+
+.Landing .card-header-title {
+    padding: 19px 0
+}
+
+.Landing .card-header.custom-card-header.collapsed.show .card-header-title {
+    border-bottom: 1px solid #dce3eb
+}
+
+.Landing .card-header-title i {
+    margin-right: 0
+}
+
+.Landing .card-header {
+    padding: 0 36px
+}
+
+.Landing .rooms-desc {
+    margin-left: -50px
+}
+
+.Landing .rooms-desc h3 {
+    color: #fff;
+    font-size: 26px;
+    font-family: Avenir-Heavy
+}
+
+.Landing .rooms-desc p {
+    font-size: 14px;
+    color: #fff
+}
+
+.Landing .rooms-image {
+    padding-right: 40px
+}
+
+thead tr th {
+    border: none!important;
+    color: #9499aa;
+    font-family: Avenir-Heavy;
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 12px
+}
+
+tbody>tr:first-child td {
+    border: none!important
+}
+
+tbody>tr:not(:first-child) td {
+    border-top: 1px solid #edf1f5!important
+}
+
+@media (max-width:436px) {
+    .Wallet .price-element,
+    .Wallet .token-name {
+        display: none!important
+    }
+    .wallet-item .wallet-item-wrapper-image {
+        margin-right: 0!important
+    }
+}
+
+@media (max-width:506px) {
+    .Wallet .price-element {
+        display: none!important
+    }
+}
+
+.Wallet.table td {
+    vertical-align: middle!important
+}
+
+.right-align {
+    text-align: right
+}
+
+.pointercursor {
+    cursor: pointer
+}
+
+.wallet-action-button {
+    color: #8c3cf6;
+    font-size: 12px
+}
+
+.wallet-action-button,
+.wallet-estimate-button {
+    background: none;
+    border: none!important;
+    cursor: pointer
+}
+
+.wallet-estimate-button {
+    padding-right: 0;
+    color: #606789;
+    font-family: Avenir-Book
+}
+
+.wallet-estimate-button:hover {
+    opacity: .5
+}
+
+.wallet-action-button:hover {
+    opacity: .5
+}
+
+.wallet-item img.wallet-item-edit {
+    height: 13px
+}
+
+.wallet-item-asset {
+    padding-left: 28px!important
+}
+
+.wallet-item .total-price {
+    color: #606789;
+    font-family: Avenir-Book
+}
+
+.wallet-item .wallet-item-wrapper-image {
+    width: 32px;
+    margin-right: 26px
+}
+
+.wallet-item .wallet-item-wrapper-image>a>img {
+    width: 100%
+}
+
+.wallet-item .wallet-item-name {
+    display: inline-block
+}
+
+.wallet-container {
+    background-color: #f5f7fa;
+    padding-bottom: 64px;
+    padding-top: 26px
+}
+
+.wallet-container .back-button span {
+    color: #7234c5;
+    font-family: Avenir-Heavy;
+    font-size: 16px;
+    padding-left: 12px;
+    vertical-align: middle
+}
+
+.displayed-tokens-holder {
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap
+}
+
+.wallet-container .row {
+    width: 100%
+}
+
+.back-button {
+    padding-left: 0!important;
+    background: none;
+    color: #7234c5;
+    border: none!important;
+    cursor: pointer
+}
+
+.wallet-container .header-description {
+    color: #9499aa;
+    font-family: Avenir-Book;
+    letter-spacing: 1px
+}
+
+.wallet-collectables-header {
+    width: 100%;
+    margin-top: 16px;
+    height: 73px
+}
+
+table.Wallet {
+    margin-top: 10px
+}
+
+.wallet-container .header-title {
+    color: #343b5c;
+    font-family: Avenir-Heavy;
+    letter-spacing: 1px;
+    font-size: 26px
+}
+
+.wallet-collectables-header img {
+    float: left;
+    padding-right: 32px
+}
+
+.wallet-collectables-header h5 {
+    padding-right: 32px
+}
+
+.wallet-collectables-card-container {
+    width: 100%;
+    padding-bottom: 18px!important;
+    padding-right: 18px!important;
+    padding-left: 0!important
+}
+
+@media (max-width:991px) {
+    .wallet-collectables-card-container {
+        padding-bottom: 24px!important;
+        padding-right: 24px!important
+    }
+    .wallet-collectables-card-info {
+        padding-left: 30px
+    }
+}
+
+input.wallet-collectables-search {
+    height: 40px;
+    width: 320px;
+    background: #fbfdff;
+    padding-left: 20px;
+    font-family: Avenir-Book;
+    margin-top: 16px;
+    font-size: 15px;
+    border: 1px solid #dce3eb;
+    border-radius: 4px;
+    outline: none;
+    margin-bottom: 48px;
+    box-shadow: 3px 4px 14px 0 #edf1f7
+}
+
+.wallet-collectables-search::-webkit-input-placeholder {
+    color: #bcc0d2
+}
+
+.wallet-collectables-search::-ms-input-placeholder {
+    color: #bcc0d2
+}
+
+.wallet-collectables-search::placeholder {
+    color: #bcc0d2
+}
+
+.load-more-button {
+    background: #e3d6fb;
+    width: calc(86% - 30px);
+    display: block;
+    margin: 0 auto;
+    border: none;
+    border-radius: 20px;
+    height: 50px;
+    color: #7234c5;
+    font-weight: 700;
+    transition: .3s
+}
+
+.load-more-button:hover {
+    background: #f0e3ff
+}
+
+.wallet-collectables-card {
+    position: relative;
+    min-height: 120px;
+    border-radius: 7px;
+    background: #fff;
+    overflow: hidden;
+    box-shadow: 3px 4px 21px 0 #edf1f7;
+    padding-bottom: 4px
+}
+
+.wallet-token-edit {
+    position: absolute!important;
+    padding-right: 2px;
+    height: 32px;
+    top: 0;
+    right: 0;
+    border: none;
+    background: none
+}
+
+.wallet-collectables-card .tokenID,
+.wallet-collectables-card .tokenIDLink {
+    display: inline-block;
+    padding: 6px 8px;
+    margin-left: -8px;
+    border-radius: 10px;
+    font-size: 16px;
+    max-width: 92%;
+    float: left
+}
+
+.wallet-collectables-card .tokenID a,
+.wallet-collectables-card .tokenIDLink a {
+    vertical-align: middle
+}
+
+.wallet-collectables-card-info {
+    padding-left: 21px;
+    padding-top: 4px
+}
+
+.wallet-collectables-card-info p {
+    color: #8d92ab;
+    font-size: 14px;
+    margin-bottom: 0;
+    margin-top: 4px
+}
+
+.wallet-collectables-card-info h5 {
+    font-family: Avenir-Medium;
+    font-size: 14px!important
+}
+
+.wallet-collectables-card-img {
+    width: 100%;
+    max-height: 320px
+}
+
+.tokenID a {
+    color: #212529!important;
+    cursor: pointer
+}
+
+.link-to-dapp-page img {
+    padding-top: 8px;
+    height: 21px
+}
+
+.wallet-collectables-card-info h5 .link-to-dapp-page.hide,
+.wallet-collectables-card-info h5 .token-card-clipboard.hide {
+    opacity: 0
+}
+
+.wallet-collectables-card-info h5:hover .token-card-clipboard.hide,
+.wallet-collectables-card:hover .link-to-dapp-page.hide {
+    opacity: 1
+}
+
+.wallet-collectables-card .wallet-token-edit .dropdown-toggle img.hide {
+    opacity: 0
+}
+
+.wallet-collectables-card:hover .wallet-token-edit .dropdown-toggle img.hide {
+    opacity: 1
+}
+
+.wallet-collectables-card .dropdown-menu-right {
+    margin-right: 4px;
+    margin-top: -2px
+}
+
+.wallet-token-edit button {
+    text-align: right
+}
+
+.wallet-token-edit button.dropdown-item {
+    text-align: left
+}
+
+.wallet-token-edit {
+    height: 40px
+}
+
+.wallet-token-edit img {
+    width: 24px;
+    float: right;
+    padding: 6px 2px 4px
+}
+
+@media screen and (max-width:341px) {
+    .wallet-collectables-card-info {
+        padding-left: 6px
+    }
+}
+
+.add-badge-button:hover {
+    opacity: .6
+}
+
+.badge-header-icon {
+    margin-left: 8px;
+    display: inline-block;
+    cursor: pointer;
+    height: 26px;
+    margin-bottom: 6px
+}
+
+.order-card td {
+    padding: 21px 32px 18px!important
+}
+
+.swap-info-text {
+    float: left
+}
+
+.swap-info-description {
+    font-family: Avenir-Heavy;
+    font-size: 18px
+}
+
+.swap-info-description>a {
+    color: #343b5c!important
+}
+
+.swap-info-name,
+.swap-info-updated {
+    font-family: Avenir-Book;
+    font-size: 12px;
+    color: #9096b2
+}
+
+.arrow-img {
+    float: left;
+    margin-left: 21px;
+    margin-right: 21px;
+    margin-top: 8px
+}
+
+.swap-link {
+    font-family: Avenir-Book;
+    font-size: 12px;
+    color: #3ba3fe;
+    padding-top: 10px
+}
+
+.swap-menu-button {
+    cursor: pointer;
+    height: 20px;
+    margin-bottom: 15px
+}
+
+.order-status {
+    color: #fff;
+    display: inline-block;
+    padding: 6px 9px;
+    border-radius: .25rem
+}
+
+.order-status-cancelled,
+.order-status-expired,
+.order-status-invalid {
+    background: #d64440
+}
+
+.order-status-open {
+    background: #3c69ee
+}
+
+.order-status-completed {
+    background: #2dcb71
+}
+
+.no-orders {
+    text-align: center;
+    padding: 60px 0 30px
+}
+
+.tab-button {
+    font-family: Avenir-Medium;
+    font-size: 14px;
+    color: #a6abc1;
+    border: none;
+    background: transparent;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-right: 15px;
+    padding: 9px 17px;
+    border-radius: 50px
+}
+
+.tab-button:hover {
+    color: #7234c5
+}
+
+.tab-button.selected {
+    color: #7234c5;
+    background: #e3d6fb
+}
+
+.page-navigation {
+    text-align: center;
+    margin-top: 50px
+}
+
+.page-navigation button {
+    color: #ff67d1;
+    font-family: Avenir-Heavy;
+    font-size: 14px;
+    border: none;
+    background: none;
+    display: inline-block
+}
+
+.page-navigation button.hide {
+    opacity: 0;
+    pointer-events: none
+}
+
+.page-navigation button.disabled {
+    opacity: .4;
+    pointer-events: none
+}
+
+.page-number {
+    font-family: Avenir-Heavy;
+    font-size: 16px;
+    color: #9096b2;
+    margin-right: 50px;
+    margin-left: 50px;
+    display: inline-block
+}
+
+.profile-container {
+    background-color: #f5f7fa;
+    padding-bottom: 64px;
+    padding-top: 32px
+}
+
+.profile-header {
+    margin-bottom: 48px
+}
+
+.profile-header-icon {
+    margin-left: 0;
+    margin-right: 5px;
+    margin-bottom: 3px;
+    display: inline-block;
+    cursor: pointer;
+    height: 26px
+}
+
+.profile-edit-button {
+    display: inline-block;
+    margin-left: 10px;
+    height: 20px;
+    padding-bottom: 5px
+}
+
+.profile-edit-button:hover {
+    opacity: .5
+}
+
+.profile-header-grey {
+    font-family: Avenir-Book;
+    font-size: 14px;
+    color: #9096b2;
+    margin-bottom: 8px
+}
+
+.profile-header-currency-name,
+.profile-header-name {
+    font-family: Avenir-Heavy;
+    font-size: 20px;
+    color: #343b5c;
+    margin-bottom: 6px
+}
+
+.profile-header-name {
+    display: inline-block
+}
+
+.profile-header-address {
+    font-family: Avenir-Book;
+    font-size: 12px;
+    color: #343b5c;
+    display: block
+}
+
+.trader-blocky-holder {
+    padding-left: 0!important
+}
+
+.trader-blocky {
+    float: left
+}
+
+.displayed-tokens-holder {
+    display: -webkit-flex;
+    display: flex;
+    margin-right: -24px!important;
+    margin-bottom: 18px
+}
+
+.profile-collectable-symbol {
+    font-family: Avenir-Book;
+    font-size: 18px;
+    color: #343b5c
+}
+
+.profile-collectibles-icon {
+    float: left
+}
+
+.profile-collectibles-icon img {
+    height: 54px
+}
+
+.profile-collectibles-info {
+    float: right;
+    padding-left: 30px
+}
+
+.badges-holder,
+.socials-holder {
+    padding-left: 0!important;
+    padding-right: 0!important;
+    text-align: right
+}
+
+.profile-collectable-browse {
+    float: right
+}
+
+tbody tr.profile-collectibles td {
+    padding: 0 0 21px
+}
+
+.browse-button {
+    float: right;
+    height: 36px;
+    font-size: 11px;
+    background-color: #e3d6fb;
+    font-family: Avenir-Heavy;
+    color: #7234c5;
+    border: none;
+    padding: 11px 18px;
+    letter-spacing: .7px;
+    vertical-align: middle;
+    border-radius: 50px
+}
+
+.profile-displayed-tokens-holder {
+    width: 100%
+}
+
+@media screen and (max-width:991px) {
+    .profile-displayed-tokens-holder .wallet-collectables-card-container:nth-child(5),
+    .profile-displayed-tokens-holder .wallet-collectables-card-container:nth-child(6) {
+        height: 0;
+        overflow: hidden;
+        padding: 0!important;
+        opacity: 0
+    }
+}
+
+@media screen and (max-width:767px) {
+    .profile-container .badges-holder,
+    .profile-container .socials-holder {
+        text-align: left;
+        padding-top: 12px
+    }
+    .profile-displayed-tokens-holder .wallet-collectables-card-container:nth-child(4),
+    .profile-displayed-tokens-holder .wallet-collectables-card-container:nth-child(5),
+    .profile-displayed-tokens-holder .wallet-collectables-card-container:nth-child(6) {
+        height: 0;
+        overflow: hidden;
+        padding: 0!important;
+        opacity: 0
+    }
+}
+
+@media screen and (max-width:575px) {
+    .profile-header-address {
+        width: 190px;
+        overflow: hidden;
+        text-overflow: ellipsis
+    }
+    .displayed-tokens-holder {
+        display: -webkit-flex;
+        display: flex;
+        margin-right: -12px!important;
+        margin-bottom: 12px
+    }
+    .wallet-collectables-card {
+        padding-bottom: 4px
+    }
+    .displayed-tokens-holder {
+        margin-bottom: 0
+    }
+    .profile-header {
+        margin-bottom: 24px
+    }
+    .badges-holder {
+        text-align: left;
+        padding-top: 12px
+    }
+    .wallet-collectables-card-container {
+        width: 100%;
+        padding-bottom: 12px!important;
+        padding-right: 12px!important;
+        padding-left: 0!important
+    }
+    .profile-displayed-tokens-holder .wallet-collectables-card-container:nth-child(4),
+    .profile-displayed-tokens-holder .wallet-collectables-card-container:nth-child(5),
+    .profile-displayed-tokens-holder .wallet-collectables-card-container:nth-child(6) {
+        height: 0;
+        overflow: hidden;
+        padding: 0!important;
+        opacity: 0
+    }
+}
+
+@media screen and (max-width:341px) {
+    .profile-container {
+        padding-top: 18px!important
+    }
+    .profile-collectibles-info {
+        float: right;
+        padding-left: 14px;
+        max-width: 130px
+    }
+    .browse-button {
+        float: right;
+        height: 34px;
+        font-size: 10px;
+        padding: 10px 12px
+    }
+}
+
+tbody tr.profile-collectibles td {
+    border: none!important
+}
+
+.edit-profile-form-container.form-group input {
+    font-family: Avenir-Book;
+    background-color: #fbfdff;
+    border: 1px #dce3eb;
+    box-shadow: 0 0 0 1px #dce3eb;
+    font-size: 14px;
+    outline: none;
+    border-radius: .25rem;
+    padding: .375rem .75rem
+}
+
+.edit-profile-form-container.form-group input:focus {
+    box-shadow: 0 0 0 1px #8c3cf6!important;
+    background-color: #fbfdff
+}
+
+.edit-profile-form-container {
+    background: #fff;
+    width: 668px;
+    max-width: 96%;
+    margin: 25px auto 0;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 3px;
+    box-shadow: 3px 4px 21px 0 #edf1f7;
+    overflow: auto
+}
+
+.edit-profile-save-button {
+    width: 156px;
+    margin-top: 10px;
+    float: right;
+    display: block!important;
+    clear: both
+}
+
+.edit-profile-form-container form>h3,
+.edit-profile-form-container form>label {
+    color: #606789
+}
+
+.edit-profile-form-container form>input {
+    width: 100%;
+    background-color: #fbfdff;
+    height: 36px
+}
+
+.edit-profile-form-container form {
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+
+.edit-profile-form-container form>label {
+    margin-top: 15px;
+    font-family: Avenir-Medium;
+    font-size: 13px;
+    color: #606789;
+    letter-spacing: .5px
+}
+
+.input-description {
+    margin-top: 8px;
+    display: block;
+    color: #9096b2;
+    font-family: Avenir-Book;
+    font-size: 12px
+}
+
+.input-description a {
+    color: #8c3cf6;
+    text-decoration: none
+}
+
+.input-description a:hover {
+    color: #8c3cf6;
+    opacity: .5;
+    text-decoration: none
+}
+
+.input-description-right {
+    text-align: center;
+    clear: both;
+    float: right
+}
+
+.btn-inactive {
+    opacity: .5;
+    cursor: not-allowed!important;
+    pointer-events: none
+}
+
+.badge-collectibles-container {
+    margin-right: -20px!important
+}
+
+.badge-card {
+    border-radius: 7px;
+    background: #fff;
+    overflow: hidden;
+    box-shadow: 3px 4px 21px 0 #edf1f7;
+    padding: 24px 28px;
+    min-height: 270px;
+    min-width: 250px
+}
+
+.badge-card-container {
+    padding-left: 0!important;
+    padding-right: 20px!important;
+    padding-bottom: 32px!important
+}
+
+.unowned {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    box-shadow: none!important
+}
+
+.badge-card h3 {
+    font-family: Avenir-Heavy;
+    font-size: 15px;
+    text-align: center;
+    color: #343b5c;
+    letter-spacing: .7px
+}
+
+.badge-card .badge-img {
+    width: 60%;
+    margin: 20px auto 27px;
+    display: block
+}
+
+.badge-description {
+    font-family: Avenir-Roman;
+    font-size: 14px;
+    color: #343b5c;
+    height: 60px
+}
+
+.badge-stats {
+    margin-top: 8px;
+    height: 16px;
+    font-family: Avenir-Book;
+    font-size: 11px;
+    color: #8d92ab
+}
+
+.badge-icons-container {
+    margin-top: 14px
+}
+
+.icons {
+    display: inline-block;
+    float: left
+}
+
+.badge-icons-container img {
+    height: 28px;
+    margin-right: 8px
+}
+
+.amount-owned-icon {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    margin-right: 8px;
+    position: absolute;
+    top: 18px;
+    right: 18px;
+    cursor: default;
+    text-align: center;
+    padding-top: 1px
+}
+
+.amount-owned-icon span {
+    color: #8d92ab;
+    font-size: 12px;
+    font-family: Avenir-Medium
+}
+
+.buy-badge-button {
+    float: right;
+    height: 28px;
+    font-size: 10px;
+    background: #e3d6fb;
+    font-family: Avenir-Heavy;
+    color: #7234c5;
+    border: none;
+    padding: 7px 14px;
+    vertical-align: middle;
+    letter-spacing: .4px;
+    border-radius: 50px;
+    -webkit-filter: grayscale(0)!important;
+    filter: grayscale(0)!important
+}
+
+.buy-badge-button:hover {
+    background: #c1a7f0
+}
+
+.feed-container {
+    background-color: #f5f7fa;
+    padding: 26px 0 64px
+}
+
+.Checkable_input {
+    height: 0;
+    width: 0;
+    display: inline-block;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    vertical-align: middle
+}
+
+.Checkable_input:active,
+.Checkable_input:focus,
+.Checkable_input:hover {
+    outline: none
+}
+
+.Checkable_input:before {
+    cursor: pointer;
+    content: "";
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
+    border: 2px solid #dce3eb;
+    display: block;
+    transition: all .15s linear;
+    position: absolute;
+    top: 0;
+    left: 0
+}
+
+.Checkable_input:after {
+    cursor: pointer;
+    content: "";
+    position: absolute;
+    height: 5px;
+    width: 10px;
+    top: 4px;
+    left: 3px;
+    background-color: transparent;
+    border: 1px solid transparent;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    transition: all .15s linear
+}
+
+.Checkable_input:active:before,
+.Checkable_input:focus:before,
+.Checkable_input:hover:before {
+    border-color: #7134c4
+}
+
+.Checkable_input:checked+.Checkable_title {
+    color: #7134c4
+}
+
+.Checkable_input:checked:before {
+    border-color: #7134c4;
+    background-color: #7134c4
+}
+
+.Checkable_input:checked:after {
+    border-bottom-color: #fff;
+    border-left-color: #fff
+}
+
+.Checkable_label {
+    position: relative;
+    line-height: 1em
+}
+
+.Checkable_title {
+    cursor: pointer;
+    display: inline-block;
+    line-height: 20px;
+    padding-left: 24px;
+    transition: all .15s linear;
+    font-size: 12px;
+    color: #606789
+}
+
+.OptionGroup:not(:last-child) {
+    margin-bottom: 20px
+}
+
+.OptionGroup h3 {
+    color: #606789;
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 1px;
+    margin-bottom: 16px
+}
+
+.OptionGroup_options {
+    transition: height .15s linear
+}
+
+.OptionGroup button[type=button] {
+    all: unset;
+    color: #7234c5;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: rgba(162, 118, 220, .2);
+    font-size: 11px;
+    line-height: 11px;
+    padding: 12px 24px 9px;
+    display: block;
+    border-radius: 23px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 8px
+}
+
+.Activity {
+    background: #fff;
+    border: 1px solid #e5e8eb;
+    border-radius: 4px;
+    padding-top: 18px;
+    padding-bottom: 18px
+}
+
+.Activity_user_picture {
+    padding-left: 20px;
+    padding-right: 20px;
+    position: relative
+}
+
+.Activity_user_picture img {
+    border-radius: 50%
+}
+
+.Activity_head {
+    color: #343b5c;
+    font-size: 14px;
+    line-height: 14px;
+    letter-spacing: .5px
+}
+
+.Activity a {
+    color: #7234c5
+}
+
+.Activity a:hover {
+    text-decoration: none
+}
+
+.Activity small {
+    color: #606789;
+    letter-spacing: .5px;
+    font-size: 12px;
+    line-height: 12px
+}
+
+.Activity_asset_image {
+    border: 1px solid #edf1f5;
+    border-radius: 2px;
+    word-break: break-all
+}
+
+.Activity_asset_image,
+.Activity_asset_swap {
+    width: 80px
+}
+
+.Activity_asset_image img {
+    width: 64px;
+    padding: 8px
+}
+
+.Activity_asset_image_title {
+    color: #afb3c4;
+    letter-spacing: 0;
+    font-size: 12px;
+    line-height: 12px
+}
+
+.Activity_asset_image_text {
+    color: #343b5c;
+    letter-spacing: 0;
+    font-size: 12px;
+    line-height: 12px
+}
+
+.Activity_asset_swap img,
+.Activity_offer .Activity_asset_image img {
+    width: 70%
+}
+
+.Activity_transaction_container {
+    margin-top: 8px
+}
+
+.Activity_details {
+    margin-top: 4px
+}
+
+.Activity_linker {
+    position: absolute;
+    top: 48px;
+    bottom: 0;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+    width: 4px;
+    border-radius: 2px;
+    background-color: #7234c5
+}
+
+.navbar {
+    height: 60px
+}
+
+.navbar .logo-name {
+    padding-left: 2rem;
+    padding-top: 3rem;
+    width: 220px;
+    height: auto
+}
+
+@media (max-width:767px) {
+    .navbar .logo-name {
+        padding-left: 0;
+        padding-top: 0;
+        width: 180px
+    }
+}
+
+@media (max-width:436px) {
+    .navbar .logo-name {
+        padding-left: 0;
+        padding-top: 0;
+        width: 180px;
+        display: none
+    }
+    #main-nav.left .nav-item {
+        display: none
+    }
+    .navbar .logo {
+        display: block!important
+    }
+}
+
+.navbar .logo {
+    display: none
+}
+
+#navbar-tradeBtn {
+    transition: .24s
+}
+
+.navbar-nav {
+    margin-left: 20px;
+    display: -webkit-flex!important;
+    display: flex!important;
+    -webkit-justify-content: center!important;
+    justify-content: center!important;
+    -webkit-align-items: center!important;
+    align-items: center!important
+}
+
+.navbar-light .nav-link:hover {
+    opacity: .68
+}
+
+.navbar-light .nav-link {
+    font-family: Avenir-Heavy!important;
+    color: #343b5c!important;
+    padding: 4px 6px 6px 50px;
+    font-size: 15px
+}
+
+.navbar-nav a {
+    color: #212529!important;
+    cursor: pointer;
+    text-decoration: none!important
+}
+
+.lang {
+    font-size: 13px;
+    color: #343b5c!important;
+    text-transform: uppercase
+}
+
+.flag {
+    width: 16px;
+    margin-right: 9px;
+    padding-bottom: 2px
+}
+
+.downarrow {
+    width: 9px;
+    margin-left: 7.5px
+}
+
+@media (max-width:992px) {
+    .navbar-nav .dropdown-menu {
+        margin-left: -10px
+    }
+}
+
+.dropdown-menu {
+    position: absolute!important;
+    padding: 0!important;
+    border: 1px solid #dce3eb!important;
+    font-size: 14px;
+    min-width: 5px!important
+}
+
+.dropdown-menu .dropdown-item {
+    padding: 10px 18px
+}
+
+.dropdown-menu .dropdown-item:focus,
+.dropdown-menu .dropdown-item:hover {
+    background-color: #f6f8ff
+}
+
+.dropdown-toggle:after {
+    display: none!important
+}
+
+.dropdown-toggle {
+    margin-left: 8px
+}
+
+.dropdown-item,
+.dropdown-toggle {
+    color: #343b5c!important;
+    font-size: 13px!important;
+    border: 0 solid #9096b2!important
+}
+
+.dropdown-menu .dropdown-item:not(:last-child) {
+    border-bottom: 0 solid #dce3eb!important
+}
+
+.has-search {
+    margin-left: 16px!important;
+    width: 240px
+}
+
+@media (min-width:786px) {
+    .has-search {
+        margin-left: 16px!important;
+        width: 360px
+    }
+}
+
+@media (max-width:518px) {
+    .has-search {
+        margin-left: 8px!important;
+        width: 198px
+    }
+}
+
+@media (max-width:464px) {
+    .has-search {
+        display: none!important
+    }
+}
+
+@media (max-width:429px) {
+    .has-search {
+        margin-left: 8px!important;
+        width: 198px
+    }
+}
+
+.has-search .form-control {
+    padding: 0 0 0 2.375rem;
+    font-size: 14px;
+    color: #9096b2;
+    border: 1px solid #dce3eb;
+    font-family: Avenir-Book;
+    box-shadow: 0 1.5px 1.5px .5px rgba(187, 201, 230, .4);
+    transition: box-shadow .2s ease-in!important
+}
+
+.has-search .form-control:active,
+.has-search .form-control:focus,
+.has-search .form-control:hover {
+    box-shadow: .3px 1.5px 1.5px 1.5px rgba(171, 186, 217, .34)!important;
+    border-color: #dce3eb!important
+}
+
+.has-search .form-control::-webkit-input-placeholder {
+    color: #9096b2
+}
+
+.has-search .form-control::-ms-input-placeholder {
+    color: #9096b2
+}
+
+.has-search .form-control::placeholder {
+    color: #9096b2
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #6f7694
+}
+
+.Tagline {
+    padding: 60px 0 0
+}
+
+.taglineLink {
+    color: inherit;
+    font-family: Avenir-Medium;
+    font-weight: 600;
+    letter-spacing: .3px;
+    transition: .24s
+}
+
+@media (max-width:436px) {
+    .Tagline .tag-donations,
+    .Tagline .tag-help {
+        display: none!important
+    }
+}
+
+@media (min-width:992px) {
+    .tag-first {
+        padding-right: 24px!important
+    }
+    .tag-help {
+        padding-left: 18px!important;
+        padding-right: 12px!important
+    }
+}
+
+.taglineLink:hover {
+    color: #8c3cf6
+}
+
+.social-icon {
+    margin: 0 8px 8px
+}
+
+.social-icon:first-child {
+    margin-left: 0
+}
+
+.social-icon:last-child {
+    margin-right: 0
+}
+
+.social-icon span {
+    color: #fff;
+    display: inline-block;
+    vertical-align: top
+}
+
+.Tagline .desc-text {
+    font-family: Avenir-Book;
+    color: #8b91af;
+    font-size: 12px;
+    line-height: 1.83
+}
+
+.Tagline .first-row>div {
+    padding-right: 0;
+    padding-left: 0
+}
+
+.Tagline .first-row>div:first-child div:first-child {
+    margin-bottom: 23px
+}
+
+.Tagline .first-row>div:nth-child(2) div:first-child,
+.Tagline .first-row>div:nth-child(3) div:first-child {
+    color: #343b5c;
+    font-size: 16px;
+    font-family: Avenir-Heavy;
+    margin-bottom: 21px
+}
+
+@media (max-width:992px) {
+    .Tagline .first-row>div:nth-child(2) div:first-child,
+    .Tagline .first-row>div:nth-child(3) div:first-child {
+        margin-bottom: 0;
+        margin-top: 30px
+    }
+}
+
+.Tagline .first-row>div:nth-child(2) div:nth-child(2),
+.Tagline .first-row>div:nth-child(3) div:nth-child(2) {
+    line-height: 32px
+}
+
+.Tagline .second-row {
+    margin-top: 40px;
+    margin-bottom: 40px
+}
+
+.Tagline .second-row>div {
+    margin-right: 20px;
+    cursor: pointer
+}
+
+.Tagline .line {
+    border-top: 1px solid #dce3eb;
+    padding-top: 30px;
+    padding-bottom: 30px
+}
+
+.Tagline .line div {
+    font-family: OpenSans-Regular;
+    font-size: 12px;
+    color: #8b91af;
+    text-align: center
+}
+
+::-moz-selection {
+    color: #fff;
+    background: #854ddb
+}
+
+::selection {
+    color: #fff;
+    background: #854ddb
+}
+
+.btn {
+    line-height: 1!important;
+    height: 40px
+}
+
+.tooltip.show {
+    opacity: 1!important
+}
+
+.btn-primary {
+    background-color: #8c3cf6!important;
+    border-color: #8c3cf6!important;
+    color: #fff!important;
+    font-family: Avenir-Roman
+}
+
+.btn-primary:hover {
+    background-color: #7547b1!important;
+    border-color: #7547b1!important
+}
+
+.btn-primary:active {
+    background-color: #8156bb!important;
+    border-color: #8156bb!important
+}
+
+.btn-secondary {
+    background-color: transparent!important;
+    border-color: #9096b2!important;
+    color: #9096b2;
+    font-family: Avenir-Roman;
+    border: 1.3px solid #9096b2
+}
+
+.btn-secondary:hover {
+    background-color: transparent!important;
+    border-color: #9096b2!important
+}
+
+.btn-secondary:active {
+    background-color: transparent!important;
+    border-color: #9096b2!important
+}
+
+.btn-accent {
+    background-color: #ff67d1!important;
+    border-color: #ff67d1!important;
+    color: #fff!important;
+    font-family: Avenir-Roman
+}
+
+.btn-accent:hover {
+    background-color: #ca57a7!important;
+    border-color: #ca57a7!important
+}
+
+.btn-accent:active {
+    background-color: #d667b5!important;
+    border-color: #d667b5!important
+}
+
+.modal-header {
+    border-bottom: none!important;
+    padding-bottom: 0!important
+}
+
+.modal-content {
+    border: 0 solid #9096b2!important
+}
+
+@media (min-width:576px) {
+    .modal-dialog {
+        max-width: 400px!important
+    }
+    .modal-dialog.modal-share {
+        max-width: 480px!important
+    }
+}
+
+@media (min-width:768px) {
+    .container {
+        max-width: 1100px!important
+    }
+}
+
+@media (min-width:1000px) {
+    .container {
+        max-width: 1100px!important
+    }
+}
+
+.row {
+    margin-right: 0!important;
+    margin-left: 0!important
+}
+
+.btn:active,
+.btn:focus {
+    border-color: none!important;
+    box-shadow: none!important;
+    -webkit-box-shadow: none!important
+}
+
+.form-control:active,
+.form-control:focus {
+    box-shadow: none!important;
+    -webkit-box-shadow: none!important
+}
+
+#root {
+    font-family: Avenir-Roman;
+    color: #343b5c;
+    font-size: 14px
+}
+
+::-webkit-scrollbar {
+    display: none
+}
+
+.transition {
+    transition: opacity .15s ease-in, color .15s ease-in, background-color .1s ease-in, border-color .15s ease-in-out, box-shadow .15s ease-in-out, -webkit-filter .15s ease-in-out!important;
+    transition: opacity .15s ease-in, color .15s ease-in, background-color .1s ease-in, border-color .15s ease-in-out, box-shadow .15s ease-in-out, filter .15s ease-in-out!important;
+    transition: opacity .15s ease-in, color .15s ease-in, background-color .1s ease-in, border-color .15s ease-in-out, box-shadow .15s ease-in-out, filter .15s ease-in-out, -webkit-filter .15s ease-in-out!important
+}
+
+.hidden {
+    display: none
+}
+
+@media (max-width:346px) {
+    .trade-rectangle {
+        padding: 20px 30px;
+        width: 320px
+    }
+    .bottom-buttons button {
+        width: 120px
+    }
+    .Status>.BannerBelow {
+        padding-left: 12px!important;
+        padding-right: 12px!important
+    }
+    .Banner {
+        padding-left: 12px!important;
+        padding-right: 12px!important
+    }
+}
+
+@media (max-width:576px) {
+    .Status>.BannerBelow {
+        height: 122px!important;
+        padding-left: 30px;
+        padding-right: 30px
+    }
+}
+
+@media (max-width:768px) {
+    .Banner {
+        height: 108px;
+        background: none!important
+    }
+    .Banner>div {
+        background: none!important
+    }
+}
+
+body,
+html {
+    max-width: 100%;
+    overflow-x: hidden
+}
+
+.banner {
+    background: #ccc;
+    height: 50px;
+    line-height: 50px;
+    font-size: 30px;
+    padding-left: 10px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 100
+}
+
+.opacity-hover:hover {
+    opacity: .5
+}
+
+button:focus {
+    outline: none!important
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    background: #f6f8ff!important
+}
+
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background-color: #a9a6c7!important
+}
+
+.ellipsis {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap
+}
+
+.h-pad-none {
+    padding-left: 0!important;
+    padding-right: 0!important
+}
+
+.notification-count {
+    margin-left: 16px;
+    background-color: #e59165;
+    color: #fff;
+    padding: 0 .5em;
+    border-radius: 1em;
+    font-size: 14px
+}
+
+.wallet-address-collapsible {
+    max-width: 72px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis
+}
+
+.ContentArea {
+    background-color: #f6f8ff;
+    padding-top: 48px;
+    padding-bottom: 48px
+}
+
+.ContentArea>.row-container:not(.no-margins)>.row:not(:first-child):not(:last-child) {
+    margin-top: 48px;
+    margin-bottom: 48px
+}
+
+.ContentArea>.row-container:not(.no-margins)>.row:first-child {
+    margin-bottom: 48px
+}
+
+.ContentArea>.row-container:not(.no-margins)>.row:last-child {
+    margin-top: 48px
+}
+
+button {
+    cursor: pointer
+}
+
+button:disabled,
+input:disabled {
+    cursor: not-allowed
+}
+
+.SearchInput .input-group .input-group-append .btn {
+    background-color: #e47b8e;
+    color: #fff
+}
+
+.SearchInput .input-group input:active,
+.SearchInput .input-group input:focus {
+    border-color: #e47b8e;
+    box-shadow: none
+}
+
+.Illustration {
+    max-height: 128px
+}
+
+.Illustration.Rotated {
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+    margin: 40px
+}
+
+.btn-success {
+    background-color: #73bf89;
+    border-color: #73bf89
+}
+
+.cursor-pointer {
+    cursor: pointer
+}
+
+.text-underline {
+    text-decoration: underline
+}
+
+.LoaderWithText>div {
+    display: inline-block;
+    vertical-align: middle
+}
+
+.LoaderWithText>div:first-child {
+    margin-right: 12px
+}
+
+.modal-body p {
+    overflow-wrap: break-word
+}
+
+.subtitle {
+    font-size: .8em;
+    color: rgba(0, 0, 0, .72)
+}
+
+.big-btn {
+    font-family: Avenir-Roman;
+    font-weight: 700px;
+    letter-spacing: 1px;
+    font-size: 14px!important;
+    height: 46px
+}
+
+.bigger-btn {
+    height: 46px!important;
+    padding-right: 2rem!important;
+    padding-left: 2rem!important;
+    font-family: Avenir-Medium;
+    letter-spacing: .4px
+}
+
+.bar-btn {
+    background-color: #fff;
+    font-family: Avenir-Roman;
+    font-size: 14px!important;
+    color: #9096b2;
+    border: 1px solid #dce3eb!important
+}
+
+.button-bar-btn:active {
+    background-color: #7234c5;
+    color: #fff
+}
+
+.btn.btn-disabled {
+    background-color: #f6f6f6;
+    border: 1px solid #dce3eb;
+    color: #9096b2
+}
+
+.tooltip-inner {
+    background-color: #7234c5!important;
+    color: #fff!important;
+    font-family: Avenir-Book;
+    font-size: 12px
+}
+
+.bs-tooltip-auto[x-placement^=top] .arrow:before,
+.bs-tooltip-top .arrow:before {
+    border-top-color: #7234c5!important;
+    margin-top: -1px!important
+}
+
+img[src=""] {
+    display: none!important
+}
+
+.title {
+    font-family: Avenir-Heavy;
+    font-size: 21px;
+    letter-spacing: .5px
+}
+
+.Banner {
+    height: 98px;
+    background-color: #fff;
+    border-bottom: 1px solid #dce3eb
+}
+
+.Banner>div {
+    -webkit-flex-flow: column;
+    flex-flow: column;
+    text-align: center
+}
+
+.Banner>div h1 {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin: 0;
+    font-family: Avenir-Heavy;
+    font-size: 22px;
+    color: #343b5c
+}
+
+.Banner>div span {
+    color: #606789;
+    font-family: Avenir-Roman;
+    font-size: 14px;
+    padding-bottom: 18px
+}
+
+.table-wrapper {
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 3px 4px 21px 0 #edf1f7
+}
+
+.table-row-card {
+    width: 100%;
+    height: 70px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    overflow: hidden;
+    border-color: #edf1f5;
+    font-family: Avenir-Medium;
+    letter-spacing: .35px;
+    color: #343b5c
+}
+
+.blocky-circle-holder {
+    margin-bottom: 4px;
+    margin-top: 0
+}
+
+.blocky-circle {
+    border-radius: 50%
+}
+
+.invisible-clipboard {
+    background: transparent;
+    border: none;
+    padding: 0!important
+}
+
+.validation-class-error {
+    color: red!important
+}
+
+.validation-class-success {
+    color: green!important
+}
+
+.content-locked {
+    font-family: Avenir-Heavy;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 20px
+}
+
+.content-locked-link {
+    color: #8c3cf6;
+    text-decoration: none
+}
+
+.content-locked-link:hover {
+    opacity: .6;
+    color: #8c3cf6;
+    text-decoration: none
+}
+
+@font-face {
+    font-family: Avenir-Roman;
+    src: url(../media/Avenir-Roman.1dcf29d0.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Avenir-Heavy;
+    src: url(../media/Avenir-Heavy.26c03259.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Avenir-Book;
+    src: url(../media/Avenir-Book.d9f644b7.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Avenir-Black;
+    src: url(../media/Avenir-Black.9c1b5945.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: Avenir-Medium;
+    src: url(../media/Avenir-Medium.33f01234.ttf) format("truetype")
+}
+
+@font-face {
+    font-family: OpenSans-Regular;
+    src: url(../media/OpenSans-Regular.d7d5d458.ttf) format("truetype")
+}
+
+
+/*# sourceMappingURL=main.b4191d36.chunk.css.map */
