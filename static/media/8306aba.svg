@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BitPay - In Person</title>
+    <defs>
+        <circle id="path-1" cx="31" cy="31" r="31"></circle>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components/Section/Business/What-(Services)" transform="translate(-932.000000, -218.000000)">
+            <g id="Images/Large/In-person" transform="translate(932.000000, 218.000000)">
+                <g id="sidebar-copy-2">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#214497" xlink:href="#path-1"></use>
+                    <g id="handout" mask="url(#mask-2)" fill-rule="nonzero">
+                        <g transform="translate(0.000000, 8.000000)">
+                            <circle id="Oval" fill="#EFD358" cx="32" cy="16" r="6"></circle>
+                            <circle id="Oval" fill="#EFD358" cx="18" cy="6" r="6"></circle>
+                            <path d="M20,7 L16,7 C15.44727,7 15,6.55273 15,6 C15,5.44727 15.44727,5 16,5 L20,5 C20.55273,5 21,5.44727 21,6 C21,6.55273 20.55273,7 20,7 Z" id="Shape" fill="#B29930"></path>
+                            <path d="M34,17 L30,17 C29.44727,17 29,16.55273 29,16 C29,15.44727 29.44727,15 30,15 L34,15 C34.55273,15 35,15.44727 35,16 C35,16.55273 34.55273,17 34,17 Z" id="Shape" fill="#B29930"></path>
+                            <path d="M43.01177,34.25985 L25.4911,35.78338 C23.86906,35.92443 22.24259,35.56719 20.82895,34.7594 L16,32 L27.26765,32 C28.77669,32 30,30.77669 30,29.26765 L30,29.26764 C30,27.95279 29.06352,26.8244 27.77119,26.58209 L17.65393,24.6851 C15.22322,24.22935 12.75547,24 10.28239,24 L2,24 L2,38.479 L18.44922,45.33642 C20.27002,46.01898 22.28449,46.00939 24.1377,45.5415 L46,37 L46,36.99951 C46,35.38671 44.6185,34.12013 43.01177,34.25985 Z" id="Shape" fill="#BADEFC"></path>
+                            <path d="M6,43 L1,43 C0.44772,43 0,42.55228 0,42 L0,23 C0,22.44772 0.44772,22 1,22 L6,22 C6.55228,22 7,22.44772 7,23 L7,42 C7,42.55228 6.55228,43 6,43 Z" id="Shape" fill="#5A7A84"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

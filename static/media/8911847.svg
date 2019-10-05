@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>BitPay - On Website</title>
+    <defs>
+        <circle id="path-1" cx="31" cy="31" r="31"></circle>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components/Section/Business/What-(Services)" transform="translate(-308.000000, -218.000000)">
+            <g id="Icons/Large/On-website" transform="translate(308.000000, 218.000000)">
+                <g id="sidebar">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#214497" xlink:href="#path-1"></use>
+                    <g mask="url(#mask-2)" fill-rule="nonzero" id="Shape">
+                        <g transform="translate(0.000000, 12.000000)">
+                            <path d="M29,3 L0,3 L0,36.9428571 C2.29974769e-16,38.0789858 0.927410161,39 2.07142857,39 L29,39 L29,3 Z" fill="#BADEFC"></path>
+                            <path d="M47,3 L28,3 L28,39 L45,39 C46.1045695,39 47,38.0789858 47,36.9428571 L47,3 Z" fill="#458BC4"></path>
+                            <path d="M41,20 L34,20 C33.4477153,20 33,19.5522847 33,19 C33,18.4477153 33.4477153,18 34,18 L41,18 C41.5522847,18 42,18.4477153 42,19 C42,19.5522847 41.5522847,20 41,20 Z" fill="#FFFFFF"></path>
+                            <path d="M41,14 L34,14 C33.4477153,14 33,13.5522847 33,13 C33,12.4477153 33.4477153,12 34,12 L41,12 C41.5522847,12 42,12.4477153 42,13 C42,13.5522847 41.5522847,14 41,14 Z" fill="#FFFFFF"></path>
+                            <path d="M41,27 L34,27 C33.4477153,27 33,26.5522847 33,26 C33,25.4477153 33.4477153,25 34,25 L41,25 C41.5522847,25 42,25.4477153 42,26 C42,26.5522847 41.5522847,27 41,27 Z" fill="#FFFFFF"></path>
+                            <path d="M41,33 L34,33 C33.4477153,33 33,32.5522847 33,32 C33,31.4477153 33.4477153,31 34,31 L41,31 C41.5522847,31 42,31.4477153 42,32 C42,32.5522847 41.5522847,33 41,33 Z" fill="#FFFFFF"></path>
+                            <path d="M2.04347826,0 L44.9565217,0 C46.0851036,0 47,0.8954305 47,2 L47,6 L0,6 L0,2 C-1.13435831e-16,0.8954305 0.914896381,0 2.04347826,0 Z" fill="#444444"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
