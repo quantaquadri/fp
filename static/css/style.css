@@ -1030,7 +1030,7 @@ h3.description {
         width: 220px!important
     }
     .Landing .custom-inputfull .btn {
-        max-width: 60px!important
+        max-width: 80px!important
     }
 }
 
@@ -1065,7 +1065,8 @@ h3.description {
 
 .Landing .btn {
     font-size: 14px!important;
-    height: 40px
+    height: 50px;
+    box-shadow: 0px 8px 18px rgba(0, 0, 0, 0.08), 0px 4px 4px rgba(6, 103, 208, 0.1);
 }
 
 .Landing .outercontainer {
@@ -1131,14 +1132,15 @@ h3.description {
 .Landing h3,
 .Landing h4,
 .Landing h5 {
-    font-family: Avenir-heavy;
+    font-family: Avenir-book;
     color: #343b5c
 }
 
 .Landing .h3,
 .Landing h3 {
+    font-weight: 600;
     font-size: 2.5rem;
-    line-height: 48px;
+    line-height: 3.5rem;
 }
 
 .Landing .h4,
@@ -1211,7 +1213,7 @@ HeavyFont {
 }
 
 .Landing .custom-input {
-    height: 40px;
+    height: 50px;
     border-radius: 4px;
     border: 1px solid #dce3eb;
     background-color: #fbfdff;
@@ -2737,8 +2739,8 @@ tbody tr.profile-collectibles td {
 }
 
 .btn-primary {
-    background-color: #8c3cf6!important;
-    border-color: #8c3cf6!important;
+    background-color: #4F6EF7!important;
+    border-color: #4F6EF7!important;
     color: #fff!important;
     font-family: Avenir-Roman
 }
@@ -3244,7 +3246,7 @@ img[src=""] {
 
 .testimonial--background {
     height: 600px;
-    background: url(32a7489.jpg) no-repeat;
+    background: url(bg.png) no-repeat;
     background-size: contain;
 }
 
@@ -3403,6 +3405,7 @@ img[src=""] {
     font-weight: 600;
     font-size: 2.5rem;
     line-height: 3.5rem;
+    color: #343b5c;
 }
 
 @media (min-width: 576px){
@@ -3454,7 +3457,7 @@ img[src=""] {
 }
 .bp-card {
     border-width: 0!important;
-    box-shadow: 2px 20px 50px 0 rgba(0,0,0,.07);
+    box-shadow: 2px 20px 50px 0 rgba(0,0,0,.05);
 }
 .float-up {
     transition: -webkit-transform .3s ease-out;
@@ -3504,7 +3507,8 @@ img[src=""] {
 .business--settlements {
     width: 85%;
     max-width: 1450px;
-    margin: 18rem auto;
+    margin: 8rem auto;
+    
 }
 
 
@@ -3525,8 +3529,8 @@ img[src=""] {
 
 .tween-text__currency {
     cursor: pointer;
-    color: #4f6ef7;
-    border-bottom: 2px solid #4f6ef7;
+    color: #4F6EF7;
+    border-bottom: 2px solid #4F6EF7;
 }
 
 .settlement-info p {
@@ -3572,7 +3576,7 @@ img[src=""] {
 }}
 
 .container__register-cta {
-    padding: 10%;
+    padding: 8%;
     background: linear-gradient(45deg,#f6f8ff 25%,#f6f8ff);
 }
 
@@ -3584,3 +3588,33 @@ img[src=""] {
     color: #000;
 }
 
+
+.custom-input{
+    box-shadow: 0px 8px 18px rgba(0, 0, 0, 0.08), 0px 4px 4px rgba(6, 103, 208, 0.1);
+    padding: 15px 20px;
+}
+
+.text-primary{
+    color: #4f6ef7 !important;
+}
+
+@media(max-width: 479px){
+    .Landing .h3, .Landing h3 {
+        font-weight: 600;
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+}
+
+@media(max-width: 479px){
+    .checkmark-list {
+        text-align: left;
+        width: 250px;
+    }
+}
+
+@media(max-width: 479px){
+    .Tagline {
+        padding: 20px 0 0 0;
+    }
+}

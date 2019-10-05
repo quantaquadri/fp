@@ -1,0 +1,20 @@
+<svg id="Symbols" xmlns="http://www.w3.org/2000/svg" width="62" height="62" viewBox="0 0 62 62">
+  <g id="Components_Section_Business_What-_Services_" data-name="Components/Section/Business/What-(Services)" transform="translate(-308 -218)">
+    <g id="Icons_Large_On-website" data-name="Icons/Large/On-website" transform="translate(308 218)">
+      <g id="sidebar">
+        <circle id="Mask" cx="31" cy="31" r="31" fill="#4f6ef7"/>
+        <g id="Shape">
+          <g id="Group_5" data-name="Group 5" transform="translate(0 12)">
+            <path id="Path_5" data-name="Path 5" d="M29,3H0V36.943A2.064,2.064,0,0,0,2.071,39H29Z" fill="#badefc"/>
+            <path id="Path_6" data-name="Path 6" d="M47,3H28V39H45a2.029,2.029,0,0,0,2-2.057Z" fill="#458bc4"/>
+            <path id="Path_7" data-name="Path 7" d="M41,20H34a1,1,0,0,1,0-2h7a1,1,0,0,1,0,2Z" fill="#fff"/>
+            <path id="Path_8" data-name="Path 8" d="M41,14H34a1,1,0,0,1,0-2h7a1,1,0,0,1,0,2Z" fill="#fff"/>
+            <path id="Path_9" data-name="Path 9" d="M41,27H34a1,1,0,0,1,0-2h7a1,1,0,0,1,0,2Z" fill="#fff"/>
+            <path id="Path_10" data-name="Path 10" d="M41,33H34a1,1,0,0,1,0-2h7a1,1,0,0,1,0,2Z" fill="#fff"/>
+            <path id="Path_11" data-name="Path 11" d="M2.043,0H44.957A2.022,2.022,0,0,1,47,2V6H0V2A2.022,2.022,0,0,1,2.043,0Z" fill="#444"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

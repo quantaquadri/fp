@@ -1,0 +1,19 @@
+<svg id="Symbols" xmlns="http://www.w3.org/2000/svg" width="62" height="62" viewBox="0 0 62 62">
+  <g id="Components_Section_Business_What-_Services_" data-name="Components/Section/Business/What-(Services)" transform="translate(-932 -218)">
+    <g id="Images_Large_In-person" data-name="Images/Large/In-person" transform="translate(932 218)">
+      <g id="sidebar-copy-2">
+        <circle id="Mask" cx="31" cy="31" r="31" fill="#4f6ef7"/>
+        <g id="handout">
+          <g id="Group_4" data-name="Group 4" transform="translate(0 8)">
+            <circle id="Oval" cx="6" cy="6" r="6" transform="translate(26 10)" fill="#efd358"/>
+            <circle id="Oval-2" data-name="Oval" cx="6" cy="6" r="6" transform="translate(12)" fill="#efd358"/>
+            <path id="Shape" d="M20,7H16a1,1,0,0,1,0-2h4a1,1,0,0,1,0,2Z" fill="#b29930"/>
+            <path id="Shape-2" data-name="Shape" d="M34,17H30a1,1,0,0,1,0-2h4a1,1,0,0,1,0,2Z" fill="#b29930"/>
+            <path id="Shape-3" data-name="Shape" d="M43.012,34.26,25.491,35.783a8,8,0,0,1-4.662-1.024L16,32H27.268A2.732,2.732,0,0,0,30,29.268h0a2.732,2.732,0,0,0-2.229-2.685l-10.117-1.9A40,40,0,0,0,10.282,24H2V38.479l16.449,6.857a9.6,9.6,0,0,0,5.688.205L46,37h0A2.75,2.75,0,0,0,43.012,34.26Z" fill="#badefc"/>
+            <path id="Shape-4" data-name="Shape" d="M6,43H1a1,1,0,0,1-1-1V23a1,1,0,0,1,1-1H6a1,1,0,0,1,1,1V42A1,1,0,0,1,6,43Z" fill="#5a7a84"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg id="Symbols" xmlns="http://www.w3.org/2000/svg" width="62" height="62" viewBox="0 0 62 62">
+  <g id="Components_Section_Business_What-_Services_" data-name="Components/Section/Business/What-(Services)" transform="translate(-629 -218)">
+    <g id="Images_Large_By-email" data-name="Images/Large/By-email" transform="translate(629 218)">
+      <g id="sidebar-copy">
+        <circle id="Mask" cx="31" cy="31" r="31" fill="#4f6ef7"/>
+        <g id="send">
+          <g id="Shape" transform="translate(4 5)">
+            <path id="Path_2" data-name="Path 2" d="M11.008,46c-.233,0,4.666-20.18,4.666-20.18a1.155,1.155,0,0,1,.824-.785,1.14,1.14,0,0,1,1.091.308l8.073,8.166a1.175,1.175,0,0,1-.124,1.758L11.7,45.766A1.137,1.137,0,0,1,11.008,46Z" fill="#4f6ef7"/>
+            <path id="Path_3" data-name="Path 3" d="M38.491,49a1.163,1.163,0,0,1-.7-.234l-37.324-28A1.167,1.167,0,0,1,.734,18.75L47.4.083A1.167,1.167,0,0,1,48.977,1.4L39.635,48.062A1.165,1.165,0,0,1,38.491,49Z" fill="#badefc"/>
+            <path id="Path_4" data-name="Path 4" d="M11.183,46a1.21,1.21,0,0,1-.19-.015A1.161,1.161,0,0,1,10,44.85V27.6a1.14,1.14,0,0,1,.478-.923L47.114.227a1.2,1.2,0,0,1,1.607.18,1.129,1.129,0,0,1-.083,1.572L16.144,32.374,12.3,45.214A1.179,1.179,0,0,1,11.183,46Z" fill="#4f6ef7"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
