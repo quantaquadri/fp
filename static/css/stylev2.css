@@ -1071,7 +1071,7 @@ h3.description {
 
 .Landing .outercontainer {
     position: relative;
-    background-color: #F7F8FA
+    /* background-color: #fcfcfc */
 }
 
 .Landing .circle-animated {
@@ -2664,8 +2664,8 @@ tbody tr.profile-collectibles td {
 
 .Tagline .desc-text {
     font-family: Avenir-Book;
-    color: #000;
-    font-size: 14px;
+    color: #343b5c;
+    font-size: 12px;
     line-height: 1.83
 }
 
@@ -3249,7 +3249,7 @@ img[src=""] {
 
 .testimonial--background {
     height: 600px;
-    background: url(bgtwo.png) no-repeat;
+    background: url(bg.png) no-repeat;
     background-size: contain;
 }
 
@@ -3468,7 +3468,6 @@ img[src=""] {
 .bp-card {
     border-width: 0!important;
     box-shadow: 2px 20px 50px 0 rgba(0,0,0,.05);
-    background-color: rgba(255, 255, 255, .98)
 }
 .float-up {
     transition: -webkit-transform .3s ease-out;
@@ -3518,7 +3517,7 @@ img[src=""] {
 .business--settlements {
     width: 85%;
     max-width: 1450px;
-    margin: 8rem auto;
+    margin: 4rem auto;
     
 }
 
@@ -3574,15 +3573,6 @@ img[src=""] {
     margin-bottom: 8rem;
 }}
 
-
-@media (max-width: 479px){
-.business--settlements {
-    margin-bottom: 4rem;
-    margin-top: 10px;
-}}
-
-
-
 @media screen and (max-width: 576px){
 .asset--dashboard--small__container {
     margin-top: -40%;
@@ -3596,7 +3586,7 @@ img[src=""] {
 }}
 
 .container__register-cta {
-    padding: 6%;
+    padding: 8%;
     background: linear-gradient(45deg,#4f6ef7 25%,#4f6ef7);
     margin-bottom: 50px;
 }
@@ -3649,14 +3639,13 @@ img[src=""] {
 }}
 
 .coin-animation #contactForm {
-    background: #fff;
+    background: #Fafafa;
     padding: 35px;
     border-radius: 10px;
     max-width: 380px !important;
     margin: 0 auto;
     float: none;
     box-shadow: 0 10px 10px 0 rgba(32, 62, 84, 0.1);
-    margin-top: 25px;
     
 }
 
@@ -3689,13 +3678,13 @@ img[src=""] {
 }
 
 .coin-animation #contactForm .btn-action {
-    margin: 15px 0;
+    margin: 20px 0;
     min-width: 100%;
 }
 
 @media (max-width:479px){
     .coin-animation #contactForm {
-        background: #fff;
+        background: #Fafafa;
         padding: 15px;
         border-radius: 10px;
         max-width: 380px !important;
@@ -3749,12 +3738,4 @@ img[src=""] {
 .theme-banner {
     background: url(bg1.png) no-repeat center;
     background-size: cover;
-}
-
-
-@media (max-width: 479px){
-    .business-settlements__dashboard {
-        
-        width: 78vw;
-    }
 }
