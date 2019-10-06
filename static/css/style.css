@@ -1200,7 +1200,7 @@ HeavyFont {
 }
 
 .Landing .fa {
-    font-size: 32px
+    font-size: 18px
 }
 
 .Landing .fa-angle-up {
@@ -3592,6 +3592,7 @@ img[src=""] {
 
 .container__register-cta__caption {
     max-width: 350px;
+    padding-bottom: 10px;
 }
 
 .text__lead--dark {
