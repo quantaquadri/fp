@@ -1133,7 +1133,7 @@ h3.description {
 .Landing h4,
 .Landing h5 {
     font-family: Avenir-book;
-    color: #343b5c
+    color: #000
 }
 
 .Landing .h3,
@@ -2616,17 +2616,18 @@ tbody tr.profile-collectibles td {
 .taglineLink {
     color: inherit;
     font-family: Avenir-Medium;
-    font-weight: 600;
+    font-weight: 500;
     letter-spacing: .3px;
-    transition: .24s
+    transition: .24s;
+    color: #343b5c;
 }
 
-@media (max-width:436px) {
+/* @media (max-width:436px) {
     .Tagline .tag-donations,
     .Tagline .tag-help {
         display: none!important
     }
-}
+} */
 
 @media (min-width:992px) {
     .tag-first {
@@ -2662,7 +2663,7 @@ tbody tr.profile-collectibles td {
 
 .Tagline .desc-text {
     font-family: Avenir-Book;
-    color: #8b91af;
+    color: #343b5c;
     font-size: 12px;
     line-height: 1.83
 }
@@ -2678,7 +2679,7 @@ tbody tr.profile-collectibles td {
 
 .Tagline .first-row>div:nth-child(2) div:first-child,
 .Tagline .first-row>div:nth-child(3) div:first-child {
-    color: #343b5c;
+    color: #000;
     font-size: 16px;
     font-family: Avenir-Heavy;
     margin-bottom: 21px
@@ -3298,7 +3299,7 @@ img[src=""] {
     font-weight: 300;
     font-size: 1.188rem;
     line-height: 1.875rem;
-    color: #565d6d;
+    color: #000;
 }
 
 @media (min-width: 1200px){
@@ -3406,7 +3407,7 @@ img[src=""] {
     font-weight: 600;
     font-size: 2.5rem;
     line-height: 3.5rem;
-    color: #343b5c;
+    color: #000;
 }
 
 .text__heading-32 {
@@ -3415,24 +3416,6 @@ img[src=""] {
     line-height: 3.5rem;
     color: #fff;
 }
-
-@media (max-width: 479px){
-    .text__heading-32 {
-        font-weight: 600;
-        font-size: 2.5rem;
-        line-height: 3.5rem;
-        color: #fff;
-        text-align: left;
-        margin-left: -20px;
-
-    }}
-
-@media (max-width: 479px){
-    .container__register-cta__caption {
-        margin-left: -20px !important;
-        text-align: left
-
-    }}
 
 @media (min-width: 576px){
 .d-sm-block {
@@ -3564,7 +3547,7 @@ img[src=""] {
 }
 
 .text__lead--light {
-    color: #565d6d;
+    color: #000;
 }
 .text__lead--slim {
     line-height: 1.875rem;
@@ -3660,7 +3643,8 @@ img[src=""] {
     max-width: 380px !important;
     margin: 0 auto;
     float: none;
-    box-shadow: 2px 20px 50px 0 rgba(0,0,0,.07);
+    box-shadow: 0 10px 10px 0 rgba(32, 62, 84, 0.1);
+    
 }
 
 .coin-animation #contactForm label {
@@ -3746,4 +3730,10 @@ img[src=""] {
     padding: 17px 26px;
     border-radius: 5px;
     font-weight: 700;
+}
+
+
+.theme-banner {
+    background: url(bg1.png) no-repeat center;
+    background-size: cover;
 }
