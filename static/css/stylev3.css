@@ -1073,17 +1073,10 @@ h3.description {
     position: relative;
     /* background-color: #F7F8FA; */
     background-color: #f6f8ff;
-    background-image: linear-gradient(90deg, rgba(0, 0, 0, .13), hsla(0, 0%, 100%, 0) 50%, rgba(0, 0, 0, .21)), linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(place.jpeg);
+    background-image: linear-gradient(90deg, rgba(0, 0, 0, .13), hsla(0, 0%, 100%, 0) 50%, rgba(0, 0, 0, .21)), linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(place.jpg);
     background-position: 0px 0px, 0px 0px, 0px 100%;
     background-size: auto, auto, cover;
     background-repeat: repeat, repeat, no-repeat;
-}
-
-@media(max-width: 479px){
-    .Landing .outercontainer{
-        background-size: auto !important;
-        background-position: 75% 0 !important;
-    }
 }
 
 .Landing .circle-animated {
@@ -1146,7 +1139,7 @@ h3.description {
 .Landing h4,
 .Landing h5 {
     font-family: Avenir-book;
-    color: #fff
+    color: #000
 }
 
 .Landing .h3,
