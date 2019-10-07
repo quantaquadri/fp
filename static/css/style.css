@@ -3617,6 +3617,13 @@ img[src=""] {
     background-repeat: repeat, repeat, no-repeat;
 }
 
+@media(max-width: 479px){
+    .container__register-cta{
+        background-size: auto !important;
+        background-position: 65% 0 !important;
+    }
+}
+
 .container__register-cta__caption {
     max-width: 350px;
     padding-bottom: 10px;
@@ -3935,4 +3942,49 @@ img[src=""] {
     margin-top: 20px;
     font-size: 16px;
     color: #000
+}
+
+.business--stats {
+    max-width: 1700px;
+    margin: 10rem auto;
+}
+
+@media (max-width: 479px){
+    .business--stats {
+        max-width: 1700px;
+        margin: 1rem auto;
+    }
+}
+
+
+@media (max-width: 479px){
+    .business-settlementz__dashboard{
+        display: none;
+    }
+}
+
+.business-settlementz__dashboard {
+    position: relative;
+    width: 48vw;
+    z-index: 2;
+    max-width: 800px;
+    -webkit-filter: drop-shadow(0 0 30px rgba(0,0,0,.1));
+    filter: drop-shadow(0 0 30px rgba(0,0,0,.1));
+}
+
+
+.business-settlementz__dashboard-mobile {
+    position: relative;
+    width: 60vw;
+    z-index: 2;
+    max-width: 800px;
+    -webkit-filter: drop-shadow(0 0 30px rgba(0,0,0,.1));
+    filter: drop-shadow(0 0 30px rgba(0,0,0,.1));
+    padding-top: 30px;
+}
+
+@media (min-width: 479px){
+    .business-settlementz__dashboard-mobile{
+        display: none;
+    }
 }
