@@ -1071,7 +1071,8 @@ h3.description {
 
 .Landing .outercontainer {
     position: relative;
-    background-color: #F7F8FA
+    /* background-color: #F7F8FA; */
+    background-color: #f6f8ff;
 }
 
 .Landing .circle-animated {
@@ -3442,7 +3443,7 @@ img[src=""] {
 .business--deck {
     position: relative;
     z-index: 1;
-    margin-top: 1%;
+    margin-top: 5%;
 }
 
 @media (min-width: 576px){
@@ -3518,7 +3519,7 @@ img[src=""] {
 .business--settlements {
     width: 85%;
     max-width: 1450px;
-    margin: 8rem auto;
+    margin: 5rem auto;
     
 }
 
@@ -3757,4 +3758,166 @@ img[src=""] {
         
         width: 78vw;
     }
+}
+
+
+
+
+.row:before, .dropdown__row:before, .row:after, .dropdown__row:after {
+    content: " ";
+    display: table;
+}
+
+
+.header--bottom-border .h2 {
+    position: relative;
+    margin-bottom: 3rem;
+}
+
+
+/* @media only screen and (min-width: 25.063em){
+.how-works-illustration {
+    height: 20rem;
+    width: 43.75rem;
+}}
+
+.how-works-illustration {
+    height: 30rem;
+    width: 20rem;
+    margin: 0 auto;
+    position: relative;
+} */
+
+/* @media only screen and (min-width: 25.063em){
+.timeline {
+    width: 96%;
+    height: 3px;
+    top: 174px;
+    left: 2%;
+}}
+
+.timeline {
+    background: #c3c5c9;
+    height: 95%;
+    width: 3px;
+    left: 12%;
+} */
+
+/* .step1, .step2, .step3, .step4, .timeline, .bitcoin, .fiat, .step1-text, .step2-text, .step3-text, .step4-text {
+    position: absolute;
+}
+
+
+@media only screen and (min-width: 25.063em){
+.step1, .step2, .step3, .step4 {
+    top: 42%;
+}}
+
+.step1, .step2, .step3, .step4 {
+    z-index: 2;
+}
+
+
+@media only screen and (min-width: 25.063em){
+.step1-text {
+    left: 85%;
+    -webkit-animation: focus-text-up-right 3s ease backwards;
+    animation: focus-text-up-right 3s ease backwards;
+}}
+
+@media only screen and (min-width: 25.063em){
+.step1-text, .step3-text {
+    top: -100px;
+}}
+
+.step1-text, .step2-text, .step3-text, .step4-text {
+    left: 145%;
+    top: 80%;
+    width: 180px;
+    color: #888b9a;
+    z-index: 1;
+    -webkit-animation: focus-text-down-right 3s ease backwards;
+    animation: focus-text-down-right 3s ease backwards;
+}
+
+@media only screen and (min-width: 25.063em){
+.step2-text {
+    left: -217%;
+    -webkit-animation: focus-text-down-right 3s ease backwards .75s;
+    animation: focus-text-down-right 3s ease backwards .75s;
+}}
+
+.step2-text {
+    -webkit-animation-delay: .75s;
+    animation-delay: .75s;
+}
+
+@media only screen and (min-width: 25.063em){
+.step2-text {
+    top: 140px;
+}}
+ */
+
+.step1-icon {
+    -webkit-animation: wiggle 1s linear forwards 4s;
+    animation: wiggle 1s linear forwards 4s;
+}
+
+.step1-icon, .step4-icon {
+    background-color: #4683e8;
+}
+.step1-icon, .step2-icon, .step3-icon, .step4-icon {
+    width: 5rem;
+    height: 5rem;
+    background-size: 45% !important;
+    z-index: 20;
+    border-radius: 50%;
+}
+.background-contain {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+/* 
+@media only screen and (min-width: 25.063em){
+.step2 {
+    left: 30%;
+}} */
+
+
+.step2-icon {
+    background-color: #1a3a8b;
+    -webkit-animation: twist-pop 1s linear forwards 7s;
+    animation: twist-pop 1s linear forwards 7s;
+}
+
+
+.step3-icon {
+    background-color: #fff;
+    border: 4px solid #1a3a8b;
+    border-radius: 60px;
+    -webkit-animation: spin .75s ease 10s;
+    animation: spin .75s ease 10s;
+}
+
+.step1-icon, .step4-icon {
+    background-color: #4683e8;
+}
+
+.timeline{
+    padding-top: 50px; 
+    width: 45.75rem;     
+    margin: 0 auto;
+}
+
+@media (max-width: 479px){
+    .timeline{ 
+        width: 18rem !important;
+}
+}
+
+.small-only-text-center{
+    margin-top: 20px;
+    font-size: 16px;
+    color: #000
 }
