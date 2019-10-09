@@ -13,11 +13,17 @@
     
     <title>FrostPay</title>
     
-    <link href="static/css/bootstrap.css" rel="stylesheet">
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="static/css/jquery-ui.min.css" rel="stylesheet">
     
     <link href="static/css/style.css" rel="stylesheet">
+
+    <link href="static/css/form.css" rel="stylesheet">
     
     <link  rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.13/css/bootstrap-multiselect.css">
 
 </head>
 
@@ -145,76 +151,175 @@
                        
                             <div class="pl-5">
 
-                                <!-- <img src="static/media/circle-animated.5926fac6.svg" class="circle-animated" alt=""> -->
+                                    <div class="hero-form">
 
-                                <form id="contactForm" action="#" method="post" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-              
-                                    <div class="row">
-
-                                        <div class="col-sm-12 text-center">
-                                            <p style="color: #4f6ef7; font-weight: 600;">Signup For Early Access:</p>
+                                        <h6>Let's Talk!</h6>
+                    
+                                            
+                                           
+                                        <div id="mc_embed_signup">
+                    
+                                            <form class="login-form" action="#" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate="">
+                    
+                                                    <div class="row">
+                                                
+                                                            <div class="col-md-12">
+                                            
+                                                                <div class="form-group position-relative mc-field-group">                                               
+                                            
+                                                                    <label for="mce-LNAME">Your Full Name <span class="text-danger">*</span></label>
+                                            
+                                                                    <input type="text" class="form-control" placeholder="Full Name" name="LNAME" id="mce_LNAME">
+                                            
+                                                                </div>
+                                            
+                                                            </div>
+                                            
+                                                            <div class="col-md-12">
+                                            
+                                                                <div class="form-group position-relative mc-field-group">
+                                            
+                                                                    <label for="mce-EMAIL">Your Email <span class="text-danger">*</span></label>
+                                            
+                                                                    <input type="email" class="form-control" placeholder="Email" name="EMAIL" id="mce-EMAIL">
+                                            
+                                                                </div>
+                                            
+                                                            </div>
+                    
+                    
+                                                            <div class="col-md-12">
+                                            
+                                                                <div class="form-group position-relative mc-field-group">
+                                            
+                                                                    <label for="mce-PHONE">Phone Number <span class="text-danger">*</span></label>
+                                            
+                                                                    <input type="text" class="form-control" placeholder="Phone Number" name="PHONE" id="mce-PHONE">
+                                            
+                                                                </div>
+                                            
+                                                            </div>
+                    
+                                            
+                                                            <div class="col-md-12">
+                                            
+                                                                <div class="form-group position-relative mc-field-group">
+                                            
+                                                                    <label for="mce-MMERGE1">Which Country Is Your Business Located? 
+                                                                        <span class="text-danger">*</span><br> 
+                                                                    
+                                                                        <p style="font-size: 12px; padding-top: 10px; padding-bottom:10px;">(You can select more than one)</p>
+                    
+                                                                    </label>
+                    
+                    
+                                                                    <!-- Initialize the plugin: -->
+                    
+                                                                   
+                                                                    <select class="form-control" id="multiple-checkboxes" multiple="multiple" style="display: none;">
+                                                                        
+                                                                        <option value="Nigeria" id="mce-MMERGE1">Nigeria</option>
+                                                                        <option value="Ghana" id="mce-MMERGE1">Ghana</option>
+                                                                        <option value="South Africa" id="mce-MMERGE1">South Africa</option>
+                                                                        <option value="Kenya" id="mce-MMERGE1">Kenya</option>
+                                                                        <option value="Algeria" id="mce-MMERGE1">Algeria</option>
+                                                                        <option value="Ethiopia" id="mce-MMERGE1">Ethiopia</option>
+                                                                        <option value="Angola" id="mce-MMERGE1">Angola</option>
+                                                                        <option value="Tanzania" id="mce-MMERGE1">Tanzania</option>
+                                                                        <option value="Tunisia" id="mce-MMERGE1">Tunisia</option>
+                                                                        <option value="Morocco" id="mce-MMERGE1">Morocco</option>
+                                                                        
+                                                                    </select><div class="btn-group"><button type="button" class="multiselect dropdown-toggle btn btn-default" data-toggle="dropdown" title="None selected"><span class="multiselect-selected-text">None selected</span> <b class="caret"></b></button><ul class="multiselect-container dropdown-menu"><li class="multiselect-item multiselect-all"><a tabindex="0" class="multiselect-all"><label class="checkbox"><input type="checkbox" value="multiselect-all">  Select all</label></a></li><li><a tabindex="0"><label class="checkbox"><input type="checkbox" value="Nigeria"> Nigeria</label></a></li><li><a tabindex="0"><label class="checkbox"><input type="checkbox" value="Ghana"> Ghana</label></a></li><li><a tabindex="0"><label class="checkbox"><input type="checkbox" value="South Africa"> South Africa</label></a></li><li><a tabindex="0"><label class="checkbox"><input type="checkbox" value="Kenya"> Kenya</label></a></li><li><a tabindex="0"><label class="checkbox"><input type="checkbox" value="Algeria"> Algeria</label></a></li><li><a tabindex="0"><label class="checkbox"><input type="checkbox" value="Ethiopia"> Ethiopia</label></a></li><li><a tabindex="0"><label class="checkbox"><input type="checkbox" value="Angola"> Angola</label></a></li><li><a tabindex="0"><label class="checkbox"><input type="checkbox" value="Tanzania"> Tanzania</label></a></li><li><a tabindex="0"><label class="checkbox"><input type="checkbox" value="Tunisia"> Tunisia</label></a></li><li><a tabindex="0"><label class="checkbox"><input type="checkbox" value="Morocco"> Morocco</label></a></li></ul></div>
+                                                             
+                                            
+                                                                </div>
+                                            
+                                                            </div>
+                    
+                                                            
+                                                            <div class="clear">
+                                                                <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary rounded">
+                                                            </div>
+                    
+                                                            
+                                            
+                                                            
+                                                            <!-- <div class="col-md-12">
+                                                                    
+                                                                <button class="btn btn-primary rounded w-100">Register</button>
+                                                            </div> -->
+                    
+                    
+                                                        </div>
+                                           
+                                                <!-- <div id="mc_embed_signup_scroll">
+                                           
+                                                    <div class="indicates-required">
+                                           
+                                                        <div class="form-group position-relative" style="text-align:left">
+                                                        
+                                                            <label for="mce-COMPNAME">Your Full Name <span class="asterisk">*</span> </label>
+                    
+                                                            <input type="text" value="" name="COMPNAME" class="required form-control" id="mce-COMPNAME" placeholder="Full Name">
+                                                        
+                                                        </div>
+                    
+                                                        <div class="form-group position-relative" style="text-align:left">
+                                                                
+                                                                <label for="mce-EMAIL">Your Email  <span class="asterisk">*</span> </label>
+                                                                
+                                                                <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Email Address">
+                                                        
+                                                        </div>
+                                                        
+                                                        <div class="form-group position-relative" style="text-align:left">
+                                                            
+                                                            <label for="mce-PHONENUM">Phone Number  <span class="asterisk">*</span> </label>
+                    
+                                                            <input type="text" value="" name="PHONENUM" class="required form-control" id="mce-PHONENUM" placeholder="Phone Number">
+                                                        
+                                                        </div>
+                    
+                    
+                                                        <div class="form-group position-relative" style="text-align:left">
+                                                            
+                                                            <label for="mce-PHONENUM">Which Country Is Your Business Located?   <span class="asterisk">*</span> </label>
+                    
+                                                            <select class="form-control select" id="multiple-checkboxes" multiple="multiple">
+                                                                <option value="Nigeria">Nigeria</option>
+                                                                <option value="Ghana">Ghana</option>
+                                                                <option value="South Africa">South Africa</option>
+                                                                <option value="Kenya">Kenya</option>
+                                                                <option value="Rwanda">Rwanda</option>
+                                                                <option value="Ethiopia">Ethiopia</option>
+                                                                <option value="Egypt">Egypt</option>
+                                                                <option value="Gambia">Gambia</option>
+                                                                <option value="Togo">Togo</option>
+                                                                <option value="Liberia">Liberia</option>
+                                                                <option value="">Lesotho</option>
+                                                                
+                                                            </select>
+                                                        
+                                                        </div>
+                    
+                                                       
+                                                        
+                                                        <div class="clear">
+                    
+                                                            <input type="submit" value="Register" name="subscribe" id="mc-embedded-subscribe" class="btn btn--primary btn--block mt-10" style="margin: 0;width: 100%;border: 0;">
+                    
+                                                        </div>
+                                                        
+                                                    </div>
+                                                    
+                                                </div> -->
+                    
+                                            </form>   
+                    
                                         </div>
-                                      
-
-                                      <div class="form-group col-sm-12 mc-field-group">
-                                
-                                        <label for="mce-FNAME" class="h4">Your Full Name*</label>
-                                
-                                        <input type="text" class="form-control" name="FNAME" id="mce-FNAME" placeholder="Full Name" required="">
-                                
-                                        <div class="help-block with-errors"></div>
-                                
-                                      </div>
-                  
-                                
-                                      <div class="form-group col-sm-12 mc-field-group">
-                                
-                                        <label for="mce-EMAIL" class="h4">Email Address*</label>
-                                
-                                        <input type="email" class="form-control" name="EMAIL" placeholder="Email address" id="mce-EMAIL" required="">
-                                
-                                        <div class="help-block with-errors"></div>
-                                
-                                      </div>
-                  
-                                      <div class="form-group col-sm-12 mc-field-group">
-                                
-                                        <label for="mce-LNAME" class="h4">Phone Number*</label>
-                                
-                                        <input type="text" class="form-control" id="mce-LNAME" name="LNAME" placeholder="Phone Number" required="">
-                                
-                                        <div class="help-block with-errors"></div>
-                                
-                                      </div>
-
-                                      <div class="form-group col-sm-12 mc-field-group">
-                                
-                                        <label for="mce-FNAME" class="h4">Please List the Cryptocurrency you want to accept?</label>
-                                
-                                        <input type="text" class="form-control" name="FNAME" id="mce-FNAME" placeholder="e.g. Bitcoin, Litecoin, Etherum" required="">
-                                
-                                        <div class="help-block with-errors"></div>
-                                
-                                      </div>
-
-                                
+                    
                                     </div>
 
-                                    
-                                    <div class="clear">
-                  
-                                      <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="btn-action btn-primary">
-                                    
-                                    </div>
-                                    
-                                
-                                    <!-- <button type="submit" id="form-submit" class="btn-action">Submit</button> -->
-                                
-                                    <!-- <div id="msgSubmit" class="h3 text-center hidden"></div> -->
-                                
-                                    <!-- <div class="clearfix"></div> -->
-                                
-                                  </form>
 
                             </div>
 
@@ -828,7 +933,15 @@
         }([])
     </script>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.13/js/bootstrap-multiselect.js"></script>
+    
+
+<script src="static/js/jquery.min.js"></script>    
+
+    <script src="static/js/bootstrap.bundle.min.js" defer></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-multiselect/0.9.13/js/bootstrap-multiselect.js"></script>
+
+    <script src="static/js/initialize.js"></script>
     
 </body>
 

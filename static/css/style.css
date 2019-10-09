@@ -3975,7 +3975,7 @@ img[src=""] {
 
 .business-settlementz__dashboard-mobile {
     position: relative;
-    width: 60vw;
+    width: 80vw;
     z-index: 2;
     max-width: 800px;
     -webkit-filter: drop-shadow(0 0 30px rgba(0,0,0,.1));
@@ -3987,4 +3987,18 @@ img[src=""] {
     .business-settlementz__dashboard-mobile{
         display: none;
     }
+}
+
+
+.form-group label {
+    font-size: 13px;
+    font-weight: 500;
+}
+
+#multiple-checkboxes {
+    height: 40px;
+    width: 90%;
+}
+select.form-control[multiple], select.form-control[size] {
+    height: auto;
 }
