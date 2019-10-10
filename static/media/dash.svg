@@ -18,48 +18,48 @@
     <rect width="1920" height="1449" fill="#f8f8f8"/>
     <rect id="Rectangle_1" data-name="Rectangle 1" width="1920" height="110" transform="translate(-1)" fill="#fff"/>
     <g id="User_Menu" data-name="User Menu" transform="translate(273 20)">
-      <text id="Philip_Ese" data-name="Philip Ese" transform="translate(1435 42)" fill="#707070" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">Philip Ese</tspan></text>
+      <text id="Tolu_Philips" data-name="Tolu Philips" transform="translate(1414 42)" fill="#707070" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">Tolu Philips</tspan></text>
       <g id="Symbol_1" data-name="Symbol 1" transform="translate(728 -1510)">
         <rect id="tyler" width="38" height="38" rx="18" transform="translate(814 1526)" fill="url(#pattern)"/>
       </g>
     </g>
-    <text id="TOTAL_BALANCE" data-name="TOTAL BALANCE" transform="translate(436 84)" fill="#2680eb" font-size="20" font-family="Nunito-Medium, Nunito" font-weight="500"><tspan x="0" y="0">TOTAL BALANCE</tspan></text>
-    <text id="WITHDRAWALS" transform="translate(689 84)" font-size="20" font-family="Nunito-Medium, Nunito" font-weight="500"><tspan x="0" y="0">WITHDRAWALS</tspan></text>
-    <text id="RECENT_TRANSACTIONS" data-name="RECENT TRANSACTIONS" transform="translate(942 84)" font-size="20" font-family="Nunito-Medium, Nunito" font-weight="500"><tspan x="0" y="0">RECENT TRANSACTIONS</tspan></text>
+    <text id="TOTAL_BALANCE" data-name="TOTAL BALANCE" transform="translate(445 84)" fill="#2680eb" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">TOTAL BALANCE</tspan></text>
+    <text id="WITHDRAWALS" transform="translate(698 84)" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">WITHDRAWALS</tspan></text>
+    <text id="RECENT_TRANSACTIONS" data-name="RECENT TRANSACTIONS" transform="translate(951 84)" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">RECENT TRANSACTIONS</tspan></text>
     <rect id="Rectangle_1589" data-name="Rectangle 1589" width="319" height="1449" fill="#343b5c"/>
     <g id="Group_1090" data-name="Group 1090">
       <rect id="Rectangle_1590" data-name="Rectangle 1590" width="1427" height="811" rx="5" transform="translate(435 184)" fill="#fff"/>
       <g id="Group_1089" data-name="Group 1089">
         <g id="Group_1085" data-name="Group 1085">
-          <text id="N180_000.00" data-name="N180,000.00" transform="translate(478 415)" fill="#5099de" font-size="50" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">N180,000.00</tspan></text>
+          <text id="N180_000.00" data-name="N180,000.00" transform="translate(478 415)" fill="#5099de" font-size="42" font-family="AvenirNextLTPro-Bold, Avenir Next LT Pro" font-weight="700"><tspan x="0" y="0">N180,000.00</tspan></text>
         </g>
-        <text id="Sales_Volume:" data-name="Sales Volume:" transform="translate(479 509)" font-size="24" font-family="Nunito-Medium, Nunito" font-weight="500"><tspan x="0" y="0">Sales Volume:</tspan></text>
+        <text id="Sales_Volume" data-name="Sales Volume" transform="translate(479 509)" font-size="24" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">Sales Volume</tspan></text>
         <g id="Group_1082" data-name="Group 1082">
-          <text id="JUL_10" data-name="JUL 10" transform="translate(516 961)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">JUL 10</tspan></text>
-          <text id="JUL_15" data-name="JUL 15" transform="translate(715 961)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">JUL 15</tspan></text>
-          <text id="JUL_20" data-name="JUL 20" transform="translate(914 961)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">JUL 20</tspan></text>
-          <text id="JUL_25" data-name="JUL 25" transform="translate(1113 961)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">JUL 25</tspan></text>
-          <text id="JUL_30" data-name="JUL 30" transform="translate(1312 961)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">JUL 30</tspan></text>
-          <text id="AUG_04" data-name="AUG 04" transform="translate(1511 961)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">AUG 04</tspan></text>
-          <text id="AUG_09" data-name="AUG 09" transform="translate(1710 961)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">AUG 09</tspan></text>
+          <text id="JUL_10" data-name="JUL 10" transform="translate(516 961)" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">JUL 10</tspan></text>
+          <text id="JUL_15" data-name="JUL 15" transform="translate(715 961)" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">JUL 15</tspan></text>
+          <text id="JUL_20" data-name="JUL 20" transform="translate(914 961)" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">JUL 20</tspan></text>
+          <text id="JUL_25" data-name="JUL 25" transform="translate(1113 961)" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">JUL 25</tspan></text>
+          <text id="JUL_30" data-name="JUL 30" transform="translate(1312 961)" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">JUL 30</tspan></text>
+          <text id="AUG_04" data-name="AUG 04" transform="translate(1511 961)" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">AUG 04</tspan></text>
+          <text id="AUG_09" data-name="AUG 09" transform="translate(1710 961)" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">AUG 09</tspan></text>
         </g>
         <g id="Group_1088" data-name="Group 1088">
           <g id="Group_1083" data-name="Group 1083" transform="translate(202 1)">
-            <g id="Rectangle_1592" data-name="Rectangle 1592" transform="translate(1340 226)" fill="#fff" stroke="#000" stroke-width="1">
+            <g id="Rectangle_1592" data-name="Rectangle 1592" transform="translate(1340 226)" fill="#fff" stroke="#707070" stroke-width="1">
               <rect width="276" height="52" rx="5" stroke="none"/>
               <rect x="0.5" y="0.5" width="275" height="51" rx="4.5" fill="none"/>
             </g>
-            <text id="DOWNLOAD_REPORT" data-name="DOWNLOAD REPORT" transform="translate(1396 258)" font-size="16" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">DOWNLOAD REPORT</tspan></text>
+            <text id="DOWNLOAD_REPORT" data-name="DOWNLOAD REPORT" transform="translate(1396 258)" font-size="16" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">DOWNLOAD REPORT</tspan></text>
           </g>
-          <text id="Total_Balance-2" data-name="Total Balance" transform="translate(478 264)" font-size="32" font-family="Nunito-SemiBold, Nunito" font-weight="600"><tspan x="0" y="0">Total Balance</tspan></text>
+          <text id="Total_Balance-2" data-name="Total Balance" transform="translate(478 264)" font-size="38" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">Total Balance</tspan></text>
         </g>
         <g id="Group_1086" data-name="Group 1086">
-          <text id="_1H" data-name="1H" transform="translate(1478 509)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">1H</tspan></text>
-          <text id="_1M" data-name="1M" transform="translate(1662 509)" fill="#5099de" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">1M</tspan></text>
-          <text id="_1D" data-name="1D" transform="translate(1538 509)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">1D</tspan></text>
-          <text id="_1Y" data-name="1Y" transform="translate(1722 509)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">1Y</tspan></text>
-          <text id="_1W" data-name="1W" transform="translate(1598 509)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">1W</tspan></text>
-          <text id="ALL" transform="translate(1782 509)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">ALL</tspan></text>
+          <text id="_1H" data-name="1H" transform="translate(1478 509)" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">1H</tspan></text>
+          <text id="_1M" data-name="1M" transform="translate(1662 509)" fill="#5099de" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">1M</tspan></text>
+          <text id="_1D" data-name="1D" transform="translate(1538 509)" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">1D</tspan></text>
+          <text id="_1Y" data-name="1Y" transform="translate(1722 509)" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">1Y</tspan></text>
+          <text id="_1W" data-name="1W" transform="translate(1598 509)" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">1W</tspan></text>
+          <text id="ALL" transform="translate(1782 509)" font-size="20" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">ALL</tspan></text>
         </g>
         <g id="Group_1071" data-name="Group 1071" transform="translate(0 -0.801)">
           <path id="Path_1100" data-name="Path 1100" d="M1427,66.92l-21.325-28.046-21.325,10.985-21.325,18.754L1341.7,123.139l-21.326,17.366h-21.325l-21.325-53.851L1256.4,92.01l-21.325-12.377L1213.746,92.01l-21.325,19.15L1171.1,131.808l-21.325-10.85-21.325,26.836-21.325-8.989-21.325-11.994-21.325-53.231-21.325,8.8-21.325,21.232-21.325,17.274-21.325-14.258L957.841,93.8l-21.325,44.818L915.19,80.736,893.865,60.955,872.539,74.106,851.214,85.2,829.889,49.937,808.563,65.321l-21.325-4.366L765.912,13.566,744.587,42.554H724.258L702.933,63.121l-21.325-9.285-21.325-9.472-21.325,6.758-21.325-30.07-21.325-8.6-21.325,5.009L553.655,26.75,532.33,20.172,511,1.605,489.679,9.912,468.354-16.2l-21.325.881L425.7,43.262l-21.325-9.218-21.325-8.2L361.727-9.635l-21.325,11h-20.52L298.556,12.456,277.23,6.182,255.9-4.516,234.579,12.456,213.254-4.516,191.929,42.727,170.6,54.35,149.278,30.366,127.952,19.014,106.627,44.472,85.3,51.265,63.976,33.886,42.651,44.472H21.325L0,42.226,170.6,169l1107.119,42.01Z" transform="translate(435 663)" fill="none" stroke="#05f" stroke-width="2"/>
@@ -75,21 +75,21 @@
     </g>
     <g id="Group_1081" data-name="Group 1081">
       <rect id="Rectangle_1593" data-name="Rectangle 1593" width="1427" height="381" transform="translate(435 1068)" fill="#fff"/>
-      <text id="How_your_customers_paid" data-name="How your customers paid" transform="translate(478 1155)" font-size="32" font-family="Nunito-Medium, Nunito" font-weight="500"><tspan x="0" y="0">How your customers paid</tspan></text>
+      <text id="How_your_customers_paid" data-name="How your customers paid" transform="translate(478 1155)" font-size="36" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">How your customers paid</tspan></text>
       <g id="Group_1080" data-name="Group 1080">
         <line id="Line_73" data-name="Line 73" x2="1427" transform="translate(435 1204.5)" fill="none" stroke="#c7c7c7" stroke-width="1"/>
         <line id="Line_74" data-name="Line 74" x2="1427" transform="translate(435 1278.5)" fill="none" stroke="#c7c7c7" stroke-width="1"/>
         <line id="Line_75" data-name="Line 75" x2="1427" transform="translate(435 1363.5)" fill="none" stroke="#c7c7c7" stroke-width="1"/>
       </g>
       <g id="Group_1077" data-name="Group 1077">
-        <text id="ASSET" transform="translate(478 1248)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">ASSET</tspan></text>
-        <text id="HOLDINGS" transform="translate(980 1248)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">HOLDINGS</tspan></text>
-        <text id="QUANTITY" transform="translate(1573 1248)" font-size="20" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">QUANTITY</tspan></text>
+        <text id="ASSET" transform="translate(478 1248)" font-size="20" font-family="AvenirNextLTPro-Demi, Avenir Next LT Pro" font-weight="300"><tspan x="0" y="0">ASSET</tspan></text>
+        <text id="HOLDINGS" transform="translate(960 1248)" font-size="20" font-family="AvenirNextLTPro-Demi, Avenir Next LT Pro" font-weight="300"><tspan x="0" y="0">HOLDINGS</tspan></text>
+        <text id="QUANTITY" transform="translate(1509 1248)" font-size="20" font-family="AvenirNextLTPro-Demi, Avenir Next LT Pro" font-weight="300"><tspan x="0" y="0">QUANTITY</tspan></text>
       </g>
       <g id="Group_1078" data-name="Group 1078">
-        <text id="Bitcoin" transform="translate(528 1337)" fill="#707070" font-size="25" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">Bitcoin</tspan></text>
-        <text id="_62.5_" data-name="62.5%" transform="translate(980 1337)" fill="#707070" font-size="25" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">62.5%</tspan></text>
-        <text id="N15_136.1021" data-name="N15,136.1021" transform="translate(1574 1337)" font-size="25" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">N15,136.1021</tspan></text>
+        <text id="Bitcoin" transform="translate(528 1337)" font-size="25" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">Bitcoin</tspan></text>
+        <text id="_62.5_" data-name="62.5%" transform="translate(960 1337)" font-size="25" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">62.5%</tspan></text>
+        <text id="N15_136.1021" data-name="N15,136.1021" transform="translate(1508 1337)" font-size="25" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">N15,136.1021</tspan></text>
         <text id="_BTC_" data-name="(BTC)" transform="translate(643 1337)" fill="#c7c7c7" font-size="25" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">(BTC)</tspan></text>
         <g id="bitcoin-2" data-name="bitcoin" transform="translate(421.293 1310.996)">
           <path id="Path_1103" data-name="Path 1103" d="M221.823,194.493l-.976,4.044c1.255.279,5.09,1.534,5.648-.767C227.053,195.4,223.078,194.842,221.823,194.493Z" transform="translate(-149.834 -177.542)" fill="#ed6c0c"/>
@@ -111,22 +111,22 @@
           <path id="Path_1122" data-name="Path 1122" d="M232.557,282.824l-7.531-7.531h-.07l-.767,3.068-1.743-.418,6.345,6.345A17.579,17.579,0,0,0,232.557,282.824Z" transform="translate(-151.294 -251.299)" fill="#e05a00"/>
         </g>
         <g id="Group_1075" data-name="Group 1075">
-          <rect id="Rectangle_1594" data-name="Rectangle 1594" width="166" height="11" transform="translate(1104 1322)" fill="#d5d5d5"/>
-          <rect id="Rectangle_1597" data-name="Rectangle 1597" width="106" height="11" transform="translate(1104 1322)" fill="#5099de"/>
+          <rect id="Rectangle_1594" data-name="Rectangle 1594" width="166" height="11" transform="translate(1084 1322)" fill="#d5d5d5"/>
+          <rect id="Rectangle_1597" data-name="Rectangle 1597" width="106" height="11" transform="translate(1084 1322)" fill="#5099de"/>
         </g>
       </g>
       <g id="Group_1079" data-name="Group 1079">
-        <text id="_31.55_" data-name="31.55%" transform="translate(980 1415)" fill="#707070" font-size="25" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">31.55%</tspan></text>
-        <text id="N128_022.1192" data-name="N128,022.1192" transform="translate(1574 1415)" font-size="25" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">N128,022.1192</tspan></text>
-        <text id="Ethereum" transform="translate(528 1416)" fill="#707070" font-size="25" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">Ethereum</tspan></text>
+        <text id="_31.55_" data-name="31.55%" transform="translate(960 1415)" font-size="25" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">31.55%</tspan></text>
+        <text id="N128_022.1192" data-name="N128,022.1192" transform="translate(1508 1415)" font-size="25" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">N128,022.1192</tspan></text>
+        <text id="Ethereum" transform="translate(528 1416)" font-size="25" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="0">Ethereum</tspan></text>
         <text id="_ETH_" data-name="(ETH)" transform="translate(681 1416)" fill="#c7c7c7" font-size="25" font-family="Nunito-Regular, Nunito"><tspan x="0" y="0">(ETH)</tspan></text>
         <g id="ethereum-2" data-name="ethereum" transform="translate(478 1390)">
           <path id="Path_1101" data-name="Path 1101" d="M33,16.5A16.5,16.5,0,1,1,16.5,0,16.5,16.5,0,0,1,33,16.5Zm0,0" fill="url(#linear-gradient)"/>
           <path id="Path_1102" data-name="Path 1102" d="M150.4,91.878a1.5,1.5,0,0,0-.134-1.125l-6.265-11.314a1.5,1.5,0,0,0-2.625-.008l-6.348,11.313a1.5,1.5,0,0,0,.109,1.638l6.219,8.284a1.5,1.5,0,0,0,1.2.6h.258a1.5,1.5,0,0,0,1.208-.608l1.142-1.511A.883.883,0,1,0,143.75,98.1l-1.06,1.4L138.3,93.645l4.064,1.508a.964.964,0,0,0,.673,0l3.877-1.44-.822,1.068a.883.883,0,1,0,1.419,1.051l2.6-3.392a.97.97,0,0,0,.292-.563Zm-8.678.978L138.356,91.6l3.371-1.251Zm1.934-2.5,3.373,1.254-3.373,1.254Zm4.063-.553-4.063-1.51V82.461Zm-6-7.376v5.869l-4.16,1.544Zm0,0" transform="translate(-126.149 -73.594)" fill="#fff"/>
         </g>
         <g id="Group_1076" data-name="Group 1076">
-          <rect id="Rectangle_1595" data-name="Rectangle 1595" width="166" height="11" transform="translate(1104 1400)" fill="#d5d5d5"/>
-          <rect id="Rectangle_1596" data-name="Rectangle 1596" width="66" height="11" transform="translate(1104 1400)" fill="#5099de"/>
+          <rect id="Rectangle_1595" data-name="Rectangle 1595" width="166" height="11" transform="translate(1084 1400)" fill="#d5d5d5"/>
+          <rect id="Rectangle_1596" data-name="Rectangle 1596" width="66" height="11" transform="translate(1084 1400)" fill="#5099de"/>
         </g>
       </g>
     </g>

@@ -532,7 +532,7 @@
       </g>
       <text id="Transaction_Alert" data-name="Transaction Alert" transform="translate(1408 403)" fill="#4f6ef7" font-size="48" font-family="Rubik-Regular, Rubik"><tspan x="71.968" y="45">Transaction Alert</tspan></text>
       <text id="Account:_208_34" data-name="Account: 208****34" transform="translate(1427 515)" font-size="32" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="31">Account: </tspan><tspan y="31" font-family="AvenirNextLTPro-Demi, Avenir Next LT Pro" font-weight="300">208****34</tspan></text>
-      <text id="Bank:_Access_Bank" data-name="Bank: Access Bank" transform="translate(1427 627)" font-size="32" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="31">Bank: </tspan><tspan y="31" font-family="AvenirNextLTPro-Demi, Avenir Next LT Pro" font-weight="300">Access Bank</tspan></text>
+      <text id="Bank:_Your_Bank" data-name="Bank: Your Bank" transform="translate(1427 627)" font-size="32" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="31">Bank: </tspan><tspan y="31" font-family="AvenirNextLTPro-Demi, Avenir Next LT Pro" font-weight="300">Your Bank</tspan></text>
       <text id="Amount:_30_000" data-name="Amount:  ₦30,000" transform="translate(1427 739)" font-size="32" font-family="AvenirNextLTPro-Regular, Avenir Next LT Pro"><tspan x="0" y="35">Amount: </tspan><tspan y="35" font-family="AvenirNextLTPro-Demi, Avenir Next LT Pro" font-weight="300"> </tspan><tspan y="35" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600">₦</tspan><tspan y="35" font-family="AvenirNextLTPro-Demi, Avenir Next LT Pro" font-weight="300">30,000</tspan></text>
     </g>
   </g>
