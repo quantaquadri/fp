@@ -4020,3 +4020,27 @@ img[src=""] {
 select.form-control[multiple], select.form-control[size] {
     height: auto;
 }
+
+
+
+
+/* Thank You */
+
+.feature-center {
+    text-align: center;
+}
+
+.bg-white {
+    background-color: #ffffff !important;
+}
+
+.heading .heading-title {
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 47px;
+    margin-top: 30px;
+}
+
+#feature1{
+    padding: 15px;
+}
