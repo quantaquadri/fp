@@ -2415,7 +2415,7 @@ tbody tr.profile-collectibles td {
 .navbar .logo-name {
     padding-left: 2rem;
     padding-top: 3rem;
-    width: 150px;
+    width: 200px;
     height: auto
 }
 
@@ -2439,7 +2439,7 @@ tbody tr.profile-collectibles td {
     }
     .navbar .logo {
         display: block!important;
-        width: 120px;
+        width: 150px;
     }
 }
 
