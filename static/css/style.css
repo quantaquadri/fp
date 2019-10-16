@@ -1073,7 +1073,7 @@ h3.description {
     position: relative;
     /* background-color: #F7F8FA; */
     background-color: #f6f8ff;
-    background-image: linear-gradient(90deg, rgba(0, 0, 0, .13), hsla(0, 0%, 100%, 0) 50%, rgba(0, 0, 0, .21)), linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(place.jpeg);
+    background-image: linear-gradient(90deg, rgba(0, 0, 0, .13), hsla(0, 0%, 100%, 0) 50%, rgba(0, 0, 0, .21)), linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(https://res.cloudinary.com/dxuap8kxy/image/upload/v1571240597/frostpay/place.jpg);
     background-position: 0px 0px, 0px 0px, 0px 100%;
     background-size: auto, auto, cover;
     background-repeat: repeat, repeat, no-repeat;
@@ -3202,32 +3202,32 @@ img[src=""] {
 
 @font-face {
     font-family: Avenir-Roman;
-    src: url(../media/Avenir-Roman.1dcf29d0.ttf) format("truetype")
+    src: url(https://res.cloudinary.com/dxuap8kxy/raw/upload/v1571241793/frostpay/Avenir-Roman.1dcf29d0.ttf) format("truetype")
 }
 
 @font-face {
     font-family: Avenir-Heavy;
-    src: url(../media/Avenir-Heavy.26c03259.ttf) format("truetype")
+    src: url(https://res.cloudinary.com/dxuap8kxy/raw/upload/v1571241794/frostpay/Avenir-Heavy.26c03259.ttf) format("truetype")
 }
 
 @font-face {
     font-family: Avenir-Book;
-    src: url(../media/Avenir-Book.d9f644b7.ttf) format("truetype")
+    src: url(https://res.cloudinary.com/dxuap8kxy/raw/upload/v1571241794/frostpay/Avenir-Book.d9f644b7.ttf) format("truetype")
 }
 
 @font-face {
     font-family: Avenir-Black;
-    src: url(../media/Avenir-Black.9c1b5945.ttf) format("truetype")
+    src: url(https://res.cloudinary.com/dxuap8kxy/raw/upload/v1571241794/frostpay/Avenir-Black.9c1b5945.ttf) format("truetype")
 }
 
 @font-face {
     font-family: Avenir-Medium;
-    src: url(../media/Avenir-Medium.33f01234.ttf) format("truetype")
+    src: url(https://res.cloudinary.com/dxuap8kxy/raw/upload/v1571241795/frostpay/Avenir-Medium.33f01234.ttf) format("truetype")
 }
 
 @font-face {
     font-family: OpenSans-Regular;
-    src: url(../media/OpenSans-Regular.d7d5d458.ttf) format("truetype")
+    src: url(https://res.cloudinary.com/dxuap8kxy/raw/upload/v1571241951/frostpay/OpenSans-Regular.d7d5d458.ttf) format("truetype")
 }
 
 
@@ -3616,7 +3616,7 @@ img[src=""] {
     padding: 8%;
     background: linear-gradient(45deg,#4f6ef7 25%,#4f6ef7);
     margin-bottom: 50px;
-    background-image: linear-gradient(90deg, rgba(0, 0, 0, .13), hsla(0, 0%, 100%, 0) 50%, rgba(0, 0, 0, .21)), linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(header1.jpg);
+    background-image: linear-gradient(90deg, rgba(0, 0, 0, .13), hsla(0, 0%, 100%, 0) 50%, rgba(0, 0, 0, .21)), linear-gradient(180deg, rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url(https://res.cloudinary.com/dxuap8kxy/image/upload/v1571240597/frostpay/header1.jpg);
     background-position: 0px 0px, 0px 0px, 0px 100%;
     background-size: auto, auto, cover;
     background-repeat: repeat, repeat, no-repeat;
